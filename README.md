@@ -30,7 +30,7 @@ This step consists of creating mapping tables for ICD codes that are used in the
 - Step 2.2: The reverse engineering process involved utilizing the existing mappings of ICD-10-CM codes to ICD-11, obtained through the previous process, in order to identify mappings for ICD-10-CM concepts that did not have any existing mappings. Then, when no mapping has been found for ICD-10-CM, we use the structure of ICD-10-CM to assign the mapping of parent codes when they exist. This step is performed until no new mappings can be retrieved by the process.
 - Step 2.i: The manual mapping process consisted of using the coding system developed by WHO to find correspondences for the ICD-10 and ICD-9 codes without mappings to ICD-11. The mapping process was performed by two annotators and validated by consensus. The mappings exclusively applied to ICD-10-CM and ICD-9-CM codes that were not mapped to ICD-11 via the automatic steps and were present in more than 500 stays.
 
-## Table ICD-11 code for each comorbidity category in Charlson and Elixhauser. 
+## Table of ICD-11 code for each comorbidity category in Charlson and Elixhauser. 
 
 This table is created using the mappings tables between ICD-10-CM/ ICD-9-CM to ICD-11
 
