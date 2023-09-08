@@ -19,6 +19,7 @@ Four sources of mappings have been used to build the mapping table:
 ### Creation of mappings tables across three versions of ICD
 This step consists of creating mapping tables for ICD codes that are used in the MIMIC database. Each mapping table is created based on two automated steps followed by a manual mapping. 
 
+![mappingTableCreation_JAMIA](https://github.com/JeanNikiema/mimicinicd11/assets/110404054/41cd2676-5974-4881-a346-9f11504bcfca)
 
     Figure: Applied steps for mapping table creation
 
