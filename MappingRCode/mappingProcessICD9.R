@@ -1,12 +1,12 @@
 library(dplyr)
 
 # Load the table of diagnoses with their labels from MIMIC-IV
-icd_diagnoses <- read.csv("D:/MIMIC/mimic-iv-2.2/hosp/d_icd_diagnoses.csv", header = TRUE)
+icd_diagnoses <- read.csv("./MIMIC/mimic-iv-2.2/hosp/d_icd_diagnoses.csv", header = TRUE)
 
 
 
 # Load the ICD-9 to ICD-10 mapping using the GEM
-map_gem <- read.csv("D:/MIMIC/GEM/icd9toicd10cmgem.csv")
+map_gem <- read.csv("./MIMIC/GEM/icd9toicd10cmgem.csv")
 map_gem_filter <- map_gem %>% filter(!icd10cm == "NoDx") %>% select(icd9cm, icd10cm)
 
 
@@ -22,7 +22,7 @@ View(data_gem)
 
 
 # Load manually matched codes for "NoDx"
-nodx_match <- read.csv("D:/MIMIC/GEM/nodx_code.csv")
+nodx_match <- read.csv("./MIMIC/GEM/nodx_code.csv")
 new_column <- rep("manual matching", nrow(nodx_match))
 
 # Add the new column "Maptype" to the DataFrame
@@ -78,7 +78,7 @@ no_map_code1 <- data9_map_gm  %>% filter(is.na(icd10cm)) %>% select(icd9cm) %>% 
 # ICD9CM, ICD10CM"
 
 # Load the mrconso mapping table
-cuimap <- read.csv("D:/MIMIC/UMLS/icd9to10_mr.csv")
+cuimap <- read.csv("./MIMIC/UMLS/icd9to10_mr.csv")
 
 # Create a new column "Maptype" and set it to "UMLS" for all rows
 nouvelle_colonne <- rep("UMLS", nrow(cuimap))
@@ -106,7 +106,7 @@ map_code2 <- data9_map_cui %>% filter(!is.na(icd10cm)) %>% distinct()
 no_map_code2 <- data9_map_cui %>% filter(is.na(icd10cm)) %>% select(icd9cm)
 
 # Load the manual mapping table
-data9_map_hand <- read.csv("D:/MIMIC/ManualMapping/hand_map.csv")
+data9_map_hand <- read.csv("./MIMIC/ManualMapping/hand_map.csv")
 
 # Add a new column "Maptype" and set it to "manual matching" for all rows
 nouvelle_colonne <- rep("manual matching", nrow(data9_map_hand))
@@ -141,7 +141,7 @@ library(openxlsx)
 final_map[] <- lapply(final_map, as.character)
 
 # Write the final_map DataFrame to an Excel file
-write.xlsx(final_map, "D:/MIMIC/MappingsFile/icd9cm_to_icd10cm_mimic4.xlsx")
+write.xlsx(final_map, "./MIMIC/MappingsFile/icd9cm_to_icd10cm_mimic4.xlsx")
 
 # Display the final_map DataFrame
 final_map
