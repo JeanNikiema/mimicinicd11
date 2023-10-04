@@ -1,0 +1,944 @@
+﻿chapter	I10CODE	I10NAME	FinalI11Code	FinalI11Name	FinalPostcoor	FinalPostcoDesc	FinalMaptype
+1	A41.51	Sepsis due to Escherichia coli [E. coli]	1G40	Sepsis without septic shock	NULL	NULL	3. only partial map possible
+1	A41.9	Sepsis, unspecified organism	1G40	Sepsis without septic shock	NULL	NULL	1. full map by precoordination
+1	B02.9	Zoster without complications	1E91.0	Zoster without complications	NULL	NULL	1. full map by precoordination
+1	B18.2	Chronic viral hepatitis C	1E51.1	Chronic hepatitis C	NULL	NULL	1. full map by precoordination
+1	B19.20	Unspecified viral hepatitis C without hepatic coma	1E5Z	Viral hepatitis, unspecified	NULL		3. only partial map possible
+1	B20	Human immunodeficiency virus [HIV] disease	1C62.Z	Human immunodeficiency virus disease without mention of associated disease or condition, clinical stage unspecified	NULL	NULL	1. full map by precoordination
+1	B34.9	Viral infection, unspecified	1D9Z	Unspecified viral infection of unspecified site	NULL	NULL	1. full map by precoordination
+1	B35.1	Tinea unguium	1F28.1	Dermatophytosis of nail	NULL		1. full map by precoordination
+1	B35.3	Tinea pedis	1F28.2	Dermatophytosis of foot	NULL	NULL	1. full map by precoordination
+1	B37.0	Candidal stomatitis	1F23.0	Candidosis of lips or oral mucous membranes	NULL	NULL	1. full map by precoordination
+1	B37.2	Candidiasis of skin and nail	1F23.1Z	Candidosis of skin or mucous membranes, unspecified	1F23.1Z&XA6Q52	Candidosis of skin or mucous membranes, unspecified &  nail	3. only partial map possible
+1	B37.3	Candidiasis of vulva and vagina	1F23.10	Vulvovaginal candidosis	NULL		1. full map by precoordination
+1	B95.2	Enterococcus as the cause of diseases classified elsewhere	1C41	Bacterial infection of unspecified site	1C41&XN1F7	Bacterial infection of unspecified site & Enterococcus 	2. full map by postcoordination
+1	B95.62	Methicillin resistant Staphylococcus aureus infection as the cause of diseases classified elsewhere	MG51.00	Methicillin resistant Staphylococcus aureus	NULL	NULL	1. full map by precoordination
+1	B96.1	Klebsiella pneumoniae [K. pneumoniae] as the cause of diseases classified elsewhere	1C41	Bacterial infection of unspecified site	1C41&XN741	Bacterial infection of unspecified site & Klebsiella pneumoniae	2. full map by postcoordination
+1	B96.20	Unspecified Escherichia coli [E. coli] as the cause of diseases classified elsewhere	1C41	Bacterial infection of unspecified site	1C41&XN6P4	Bacterial infection of unspecified site & Escherichia coli	2. full map by postcoordination
+1	B96.5	Pseudomonas (aeruginosa) (mallei) (pseudomallei) as the cause of diseases classified elsewhere	1C41	Bacterial infection of unspecified site	1C41&XN022	Bacterial infection of unspecified site & Pseudomonas	2. full map by postcoordination
+1	B96.89	Other specified bacterial agents as the cause of diseases classified elsewhere	1C4Y	Other specified bacterial diseases	NULL	NULL	3. only partial map possible
+1	B97.89	Other viral agents as the cause of diseases classified elsewhere	1E1Y	Other specified viral diseases	NULL	NULL	3. only partial map possible
+2	C18.2	Malignant neoplasm of ascending colon	2B90.0Z	Malignant neoplasm of ascending colon and right flexure of colon, unspecified	2B90.0Z&XA3AL5	Malignant neoplasm of ascending colon and right flexure of colon, unspecified & Ascending colon	2. full map by postcoordination
+2	C18.7	Malignant neoplasm of sigmoid colon	2B90.3	Malignant neoplasm of sigmoid colon	NULL	NULL	1. full map by precoordination
+2	C18.9	Malignant neoplasm of colon, unspecified	2B90.Z	Malignant neoplasms of colon, unspecified	NULL	NULL	1. full map by precoordination
+2	C20	Malignant neoplasm of rectum	2B92.Z	Malignant neoplasms of rectum, unspecified	NULL	NULL	1. full map by precoordination
+2	C22.0	Liver cell carcinoma	2C12.02	Hepatocellular carcinoma of liver	NULL		1. full map by precoordination
+2	C25.0	Malignant neoplasm of head of pancreas	2C10.Z	Malignant neoplasm of pancreas, unspecified	2C10.Z&XA1412	Malignant neoplasm of pancreas, unspecified & Head of pancreas	2. full map by postcoordination
+2	C25.9	Malignant neoplasm of pancreas, unspecified	2C10.Z	Malignant neoplasm of pancreas, unspecified	NULL	NULL	1. full map by precoordination
+2	C34.11	Malignant neoplasm of upper lobe, right bronchus or lung	2C25.Z	Malignant neoplasms of bronchus or lung, unspecified	2C25.Z&XA8Z30	Malignant neoplasms of bronchus or lung, unspecified & Right upper lobe bronchus	2. full map by postcoordination
+2	C34.12	Malignant neoplasm of upper lobe, left bronchus or lung	2C25.Z	Malignant neoplasms of bronchus or lung, unspecified	2C25.Z&XA2UD3	Malignant neoplasms of bronchus or lung, unspecified & Left lung	2. full map by postcoordination
+2	C34.31	Malignant neoplasm of lower lobe, right bronchus or lung	2C25.Z	Malignant neoplasms of bronchus or lung, unspecified	2C25.Z&XA41Z3	Malignant neoplasms of bronchus or lung, unspecified & Right lower lobe bronchus	2. full map by postcoordination
+2	C34.32	Malignant neoplasm of lower lobe, left bronchus or lung	2C25.Z	Malignant neoplasms of bronchus or lung, unspecified	2C25.Z&XA2UD3	Malignant neoplasms of bronchus or lung, unspecified & Left lung	2. full map by postcoordination
+2	C34.90	Malignant neoplasm of unspecified part of unspecified bronchus or lung	2C25.Z	Malignant neoplasms of bronchus or lung, unspecified	NULL	NULL	1. full map by precoordination
+2	C34.91	Malignant neoplasm of unspecified part of right bronchus or lung	2C25.Z	Malignant neoplasms of bronchus or lung, unspecified	2C25.Z&XA7EZ3	Malignant neoplasms of bronchus or lung, unspecified & Right lung	3. only partial map possible
+2	C34.92	Malignant neoplasm of unspecified part of left bronchus or lung	2C25.Z	Malignant neoplasms of bronchus or lung, unspecified	2C25.Z&XA2UD3	Malignant neoplasms of bronchus or lung, unspecified & Left lung	3. only partial map possible
+2	C43.9	Malignant melanoma of skin, unspecified	2C30.Z	Melanoma of skin, unspecified	2C30.Z&XH4846	Melanoma of skin, unspecified & Malignant melanoma, NOS	2. full map by postcoordination
+2	C44.311	Basal cell carcinoma of skin of nose	2C32.Z	Basal cell carcinoma of skin, unspecified	2C32.Z&XA04T9	Basal cell carcinoma of skin, unspecified & Skin of nose	2. full map by postcoordination
+2	C44.319	Basal cell carcinoma of skin of other parts of face	2C32.Z	Basal cell carcinoma of skin, unspecified	2C32.Z&XA86S4	Basal cell carcinoma of skin, unspecified & Face	3. only partial map possible
+2	C50.411	Malignant neoplasm of upper-outer quadrant of right female breast	2C6Z	Malignant neoplasms of breast, unspecified	2C6Z&XK9K&XA2Q54	Malignant neoplasms of breast, unspecified & Right & Upper outer quadrant of breast	3. only partial map possible
+2	C50.412	Malignant neoplasm of upper-outer quadrant of left female breast	2C6Z	Malignant neoplasms of breast, unspecified	2C6Z&XK8G&XA2Q54	Malignant neoplasms of breast, unspecified & Left & Upper outer quadrant of breast	3. only partial map possible
+2	C50.911	Malignant neoplasm of unspecified site of right female breast	2C6Z	Malignant neoplasms of breast, unspecified	2C6Z&XK9K	Malignant neoplasms of breast, unspecified & Right	3. only partial map possible
+2	C50.912	Malignant neoplasm of unspecified site of left female breast	2C6Z	Malignant neoplasms of breast, unspecified	2C6Z&XK8G	Malignant neoplasms of breast, unspecified & Left	3. only partial map possible
+2	C50.919	Malignant neoplasm of unspecified site of unspecified female breast	2C6Z	Malignant neoplasms of breast, unspecified	NULL	NULL	3. only partial map possible
+2	C54.1	Malignant neoplasm of endometrium	2C76.Z	Malignant neoplasms of corpus uteri, unspecified	2C76.Z&XA8QA8	Malignant neoplasms of corpus uteri, unspecified & Endometrium	2. full map by postcoordination
+2	C56.9	Malignant neoplasm of unspecified ovary	2C73.0	Carcinomas of ovary	NULL		1. full map by precoordination
+2	C61	Malignant neoplasm of prostate	2C82.Z	Malignant neoplasms of prostate, unspecified	NULL	NULL	1. full map by precoordination
+2	C64.1	Malignant neoplasm of right kidney, except renal pelvis	2C90.Z	Malignant neoplasms of kidney, except renal pelvis, unspecified	2C90.Z&XK9K	Malignant neoplasms of kidney, except renal pelvis, unspecified & Right	2. full map by postcoordination
+2	C64.2	Malignant neoplasm of left kidney, except renal pelvis	2C90.Z	Malignant neoplasms of kidney, except renal pelvis, unspecified	2C90.Z&XK8G	Malignant neoplasms of kidney, except renal pelvis, unspecified & Left	2. full map by postcoordination
+2	C64.9	Malignant neoplasm of unspecified kidney, except renal pelvis	2C90.Z	Malignant neoplasms of kidney, except renal pelvis, unspecified	NULL	NULL	1. full map by precoordination
+2	C67.9	Malignant neoplasm of bladder, unspecified	2C94.Z	Malignant neoplasms of bladder, unspecified	NULL	NULL	1. full map by precoordination
+2	C73	Malignant neoplasm of thyroid gland	2D10.Z	Malignant neoplasms of thyroid gland, unspecified	NULL	NULL	1. full map by precoordination
+2	C77.2	Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes	2D60.2	Malignant neoplasm metastasis in intra-abdominal lymph nodes	NULL	NULL	1. full map by precoordination
+2	C77.3	Secondary and unspecified malignant neoplasm of axilla and upper limb lymph nodes	2D60.3	Malignant neoplasm metastasis in axillary lymph nodes	NULL	NULL	3. only partial map possible
+2	C78.00	Secondary malignant neoplasm of unspecified lung	2D70	Malignant neoplasm metastasis in lung	NULL	NULL	1. full map by precoordination
+2	C78.01	Secondary malignant neoplasm of right lung	2D70	Malignant neoplasm metastasis in lung	2D70&XK9K	Malignant neoplasm metastasis in lung & Right	2. full map by postcoordination
+2	C78.02	Secondary malignant neoplasm of left lung	2D70	Malignant neoplasm metastasis in lung	2D70&XK8G	Malignant neoplasm metastasis in lung & Left	2. full map by postcoordination
+2	C78.6	Secondary malignant neoplasm of retroperitoneum and peritoneum	2E2Z	Malignant neoplasm metastasis, unspecified	2E2Z&XA6S21&XA0KZ0	Malignant neoplasm metastasis, unspecified & Retroperitoneum & Peritoneum	2. full map by postcoordination
+2	C78.7	Secondary malignant neoplasm of liver and intrahepatic bile duct	2D80.Z	Malignant neoplasm metastasis in liver or intrahepatic bile duct, unspecified	NULL	NULL	1. full map by precoordination
+2	C79.31	Secondary malignant neoplasm of brain	2D50	Malignant neoplasm metastasis in brain	NULL	NULL	1. full map by precoordination
+2	C79.51	Secondary malignant neoplasm of bone	2E03	Malignant neoplasm metastasis in bone or bone marrow	2E03&XA5GG8	Malignant neoplasm metastasis in bone or bone marrow & Bones	2. full map by postcoordination
+2	C79.89	Secondary malignant neoplasm of other specified sites	2E0Y	Malignant neoplasm metastasis in other specified sites	NULL	NULL	3. only partial map possible
+2	C79.9	Secondary malignant neoplasm of unspecified site	2E2Z	Malignant neoplasm metastasis, unspecified	NULL	NULL	1. full map by precoordination
+2	C80.1	Malignant (primary) neoplasm, unspecified	2D4Z	Unspecified malignant neoplasms of ill-defined or unspecified sites	NULL	NULL	1. full map by precoordination
+2	C83.30	Diffuse large B-cell lymphoma, unspecified site	2A81.Z	Diffuse large B-cell lymphoma, not otherwise specified	NULL	NULL	1. full map by precoordination
+2	C85.90	Non-Hodgkin lymphoma, unspecified, unspecified site	2B33.5	Malignant lymphoma, not elsewhere classified	NULL	NULL	3. only partial map possible
+2	C90.00	Multiple myeloma not having achieved remission	2A83.1	Plasma cell myeloma	NULL	NULL	1. full map by precoordination
+2	C91.10	Chronic lymphocytic leukemia of B-cell type not having achieved remission	2A82.00	Chronic lymphocytic leukaemia of B-cell type	NULL	NULL	1. full map by precoordination
+2	D05.11	Intraductal carcinoma in situ of right breast	2E65.2	Ductal carcinoma in situ of breast	2E65.2&XK9K	Ductal carcinoma in situ of breast & Right	2. full map by postcoordination
+2	D05.12	Intraductal carcinoma in situ of left breast	2E65.2	Ductal carcinoma in situ of breast	2E65.2&XK8G	Ductal carcinoma in situ of breast & Left	2. full map by postcoordination
+2	D12.0	Benign neoplasm of cecum	2E92.4Y	Other specified benign neoplasm of the large intestine	2E92.4Y&XA6J68	Other specified benign neoplasm of the large intestine & Caecum 	2. full map by postcoordination
+2	D12.2	Benign neoplasm of ascending colon	2E92.4Y	Other specified benign neoplasm of the large intestine	2E92.4Y&XA3AL5	Other specified benign neoplasm of the large intestine & Ascending colon 	2. full map by postcoordination
+2	D12.3	Benign neoplasm of transverse colon	2E92.4Y	Other specified benign neoplasm of the large intestine	2E92.4Y&XA49U1	Other specified benign neoplasm of the large intestine & Transverse colon	2. full map by postcoordination
+2	D12.4	Benign neoplasm of descending colon	2E92.4Y	Other specified benign neoplasm of the large intestine	2E92.4Y&XA2G13	Other specified benign neoplasm of the large intestine & Descending colon	2. full map by postcoordination
+2	D12.5	Benign neoplasm of sigmoid colon	2E92.4Y	Other specified benign neoplasm of the large intestine	2E92.4Y&XA8YJ9	Other specified benign neoplasm of the large intestine & Sigmoid colon	2. full map by postcoordination
+2	D12.6	Benign neoplasm of colon, unspecified	2E92.4Y	Other specified benign neoplasm of the large intestine	NULL	NULL	3. only partial map possible
+2	D12.8	Benign neoplasm of rectum	2E92.4Y	Other specified benign neoplasm of the large intestine	2E92.4Y&XA4KU2	Other specified benign neoplasm of the large intestine & Rectum	2. full map by postcoordination
+2	D22.5	Melanocytic nevi of trunk	2F20.Z	Melanocytic naevus, unspecified	2F20.Z&XA3FR3	Melanocytic naevus, unspecified & Trunk	2. full map by postcoordination
+2	D22.9	Melanocytic nevi, unspecified	2F20.Z	Melanocytic naevus, unspecified	NULL	NULL	1. full map by precoordination
+2	D25.9	Leiomyoma of uterus, unspecified	2E86.0	Leiomyoma of uterus	NULL	NULL	1. full map by precoordination
+2	D32.0	Benign neoplasm of cerebral meninges	2A01.2	Primary neoplasm of meninges of unknown or unspecified type	NULL	NULL	3. only partial map possible
+2	D32.9	Benign neoplasm of meninges, unspecified	2A01.2	Primary neoplasm of meninges of unknown or unspecified type	NULL	NULL	3. only partial map possible
+2	D45	Polycythemia vera	2A20.4	Polycythaemia vera	NULL	NULL	1. full map by precoordination
+2	D46.9	Myelodysplastic syndrome, unspecified	2A3Z	Myelodysplastic syndromes, unspecified	NULL	NULL	1. full map by precoordination
+2	D47.2	Monoclonal gammopathy	2A83.0	Monoclonal gammopathy of undetermined significance	NULL	NULL	1. full map by precoordination
+2	D47.3	Essential (hemorrhagic) thrombocythemia	3B63.1Z	Acquired thrombocytosis, unspecified	NULL	NULL	3. only partial map possible
+2	D48.5	Neoplasm of uncertain behavior of skin	2F72.Y	Other specified neoplasms of uncertain behaviour of skin	NULL	NULL	3. only partial map possible
+2	D49.2	Neoplasm of unspecified behavior of bone, soft tissue, and skin	2F92	Neoplasms of unknown behaviour of skin	NULL		3. only partial map possible
+3	D50.9	Iron deficiency anemia, unspecified	3A00.Z	Iron deficiency anaemia, unspecified	NULL	NULL	1. full map by precoordination
+3	D62	Acute posthemorrhagic anemia	3A00.00	Acute posthaemorrhagic anaemia	NULL	NULL	1. full map by precoordination
+3	D63.1	Anemia in chronic kidney disease	3A71.2	Anaemia in chronic kidney disease	NULL	NULL	1. full map by precoordination
+3	D64.9	Anemia, unspecified	3A9Z	Anaemias or other erythrocyte disorders, unspecified	NULL	NULL	1. full map by precoordination
+3	D69.6	Thrombocytopenia, unspecified	3B64.Z	Thrombocytopenia, unspecified	NULL	NULL	1. full map by precoordination
+4	E03.9	Hypothyroidism, unspecified	5A00.Z	Hypothyroidism, unspecified	NULL	NULL	1. full map by precoordination
+4	E11.22	Type 2 diabetes mellitus with diabetic chronic kidney disease	5A11	Type 2 diabetes mellitus	5A11/GB61.Z	Type 2 diabetes mellitus / Chronic kidney disease, stage unspecified	2. full map by postcoordination
+4	E11.9	Type 2 diabetes mellitus without complications	5A11	Type 2 diabetes mellitus	NULL	NULL	1. full map by precoordination
+4	E66.9	Obesity, unspecified	5B81.Z	Obesity, unspecified	NULL	NULL	1. full map by precoordination
+4	E78.00	Pure hypercholesterolemia, unspecified	5C80.00	Primary hypercholesterolaemia	NULL		3. only partial map possible
+4	E78.2	Mixed hyperlipidemia	5C80.2	Mixed hyperlipidaemia	NULL	NULL	1. full map by precoordination
+4	E78.5	Hyperlipidemia, unspecified	5C80.Z	Hyperlipoproteinaemia, unspecified	NULL		1. full map by precoordination
+4	E86.0	Dehydration	5C70.0	Dehydration	NULL	NULL	1. full map by precoordination
+4	E87.1	Hypo-osmolality and hyponatremia	5C72	Hypo-osmolality or hyponatraemia	NULL	NULL	1. full map by precoordination
+4	E87.6	Hypokalemia	5C77	Hypokalaemia	NULL	NULL	1. full map by precoordination
+5	F02.80	Dementia in other diseases classified elsewhere without behavioral disturbance	6D85.Y	Dementia due to other specified diseases classified elsewhere	NULL	NULL	1. full map by precoordination
+5	F03.90	Unspecified dementia without behavioral disturbance	6D8Z	Dementia, unknown or unspecified cause	NULL	NULL	1. full map by precoordination
+5	F05	Delirium due to known physiological condition	6D70.Y	Delirium, other specified cause	NULL	NULL	3. only partial map possible
+5	F17.200	Nicotine dependence, unspecified, uncomplicated	6C4A.2Z	Nicotine dependence, unspecified	NULL	NULL	1. full map by precoordination
+5	F17.210	Nicotine dependence, cigarettes, uncomplicated	6C4A.2Z	Nicotine dependence, unspecified	NULL		3. only partial map possible
+5	F20.9	Schizophrenia, unspecified	6A20.Z	Schizophrenia, episode unspecified	NULL	NULL	1. full map by precoordination
+5	F31.9	Bipolar disorder, unspecified	6A6Z	Bipolar or related disorders, unspecified	NULL		3. only partial map possible
+5	F32.9	Major depressive disorder, single episode, unspecified	6A70.3	Single episode depressive disorder, severe, without psychotic symptoms	NULL		1. full map by precoordination
+5	F41.1	Generalized anxiety disorder	6B00	Generalised anxiety disorder	NULL	NULL	1. full map by precoordination
+5	F41.9	Anxiety disorder, unspecified	6B0Z	Anxiety or fear-related disorders, unspecified	NULL	NULL	3. only partial map possible
+6	G20	Parkinson's disease	8A00.0Z	Parkinson disease, unspecified	NULL	NULL	1. full map by precoordination
+6	G25.81	Restless legs syndrome	7A80	Restless legs syndrome	NULL	NULL	1. full map by precoordination
+6	G30.9	Alzheimer's disease, unspecified	8A20	Alzheimer disease	NULL	NULL	1. full map by precoordination
+6	G40.909	Epilepsy, unspecified, not intractable, without status epilepticus	8A6Z	Epilepsy or seizures, unspecified	NULL		3. only partial map possible
+6	G47.00	Insomnia, unspecified	7A0Z	Insomnia disorders, unspecified	NULL	NULL	1. full map by precoordination
+6	G47.30	Sleep apnea, unspecified	7A41	Obstructive sleep apnoea	NULL		3. only partial map possible
+6	G47.33	Obstructive sleep apnea (adult) (pediatric)	7A41	Obstructive sleep apnoea	NULL	NULL	1. full map by precoordination
+6	G62.9	Polyneuropathy, unspecified	8C0Z	Polyneuropathy, unspecified	NULL	NULL	1. full map by precoordination
+6	G89.29	Other chronic pain	MG30.Y	Other specified chronic pain	NULL	NULL	3. only partial map possible
+6	G89.4	Chronic pain syndrome	MG30.0Z	Chronic primary pain, unspecified	NULL	NULL	3. only partial map possible
+6	G92	Toxic encephalopathy	8D43.0Z	ncephalopathy due to toxicity, unspecified	NULL	NULL	1. full map by precoordination
+6	G93.40	Encephalopathy, unspecified	8E47	Encephalopathy, not elsewhere classified	NULL	NULL	1. full map by precoordination
+6	G93.41	Metabolic encephalopathy	8E47	Encephalopathy, not elsewhere classified	NULL	NULL	3. only partial map possible
+7	H02.403	Unspecified ptosis of bilateral eyelids	9A03.0Z	Blepharoptosis, unspecified	9A03.0Z&XK9J	Blepharoptosis, unspecified & Bilateral	2. full map by postcoordination
+7	H02.831	Dermatochalasis of right upper eyelid	9A03.5	Dermatochalasis of eyelid	9A03.5&XK9K	Dermatochalasis of eyelid & Right	3. only partial map possible
+7	H02.834	Dermatochalasis of left upper eyelid	9A03.5	Dermatochalasis of eyelid	9A03.5&XK8G	Dermatochalasis of eyelid & Left	3. only partial map possible
+7	H02.89	Other specified disorders of eyelid	9A06.Y	Other specified disorders of eyelid	NULL		3. only partial map possible
+7	H04.123	Dry eye syndrome of bilateral lacrimal glands	9A79	Keratoconjunctivitis sicca	9A79&XK9J	Keratoconjunctivitis sicca & Bilateral	2. full map by postcoordination
+7	H04.129	Dry eye syndrome of unspecified lacrimal gland	9A79	Keratoconjunctivitis sicca	NULL		1. full map by precoordination
+7	H10.13	Acute atopic conjunctivitis, bilateral	9A60.01	Acute atopic conjunctivitis	9A60.01&XK9J	Acute atopic conjunctivitis & Bilateral	2. full map by postcoordination
+7	H10.33	Unspecified acute conjunctivitis, bilateral	9A60.Z	Conjunctivitis, unspecified	9A60.Z&XK9J	Conjunctivitis, unspecified & Bilateral	3. only partial map possible
+7	H10.9	Unspecified conjunctivitis	9A60.Z	Conjunctivitis, unspecified	NULL	NULL	1. full map by precoordination
+7	H11.31	Conjunctival hemorrhage, right eye	9A61.5	Conjunctival or subconjunctival haemorrhage	9A61.5&XK9K	Conjunctival or subconjunctival haemorrhage & Right	3. only partial map possible
+7	H11.32	Conjunctival hemorrhage, left eye	9A61.5	Conjunctival or subconjunctival haemorrhage	9A61.5&XK8G	Conjunctival or subconjunctival haemorrhage & Left	3. only partial map possible
+7	H18.51	Endothelial corneal dystrophy	9A70.0	Endothelial corneal dystrophy	NULL	NULL	1. full map by precoordination
+7	H25.013	Cortical age-related cataract, bilateral	9B10.0Y	Other specified age-related cataract	9B10.0Y&XK9K	Other specified age-related cataract & Right	3. only partial map possible
+7	H25.11	Age-related nuclear cataract, right eye	9B10.0Y	Other specified age-related cataract	9B10.0Y&XK9K	Other specified age-related cataract & Right	3. only partial map possible
+7	H25.12	Age-related nuclear cataract, left eye	9B10.0Y	Other specified age-related cataract	9B10.0Y&XK8G	Other specified age-related cataract & Left	3. only partial map possible
+7	H25.13	Age-related nuclear cataract, bilateral	9B10.0Y	Other specified age-related cataract	9B10.0Y&XK9J	Other specified age-related cataract & Bilateral	3. only partial map possible
+7	H25.811	Combined forms of age-related cataract, right eye	9B10.0Y	Other specified age-related cataract	9B10.0Y&XK9K	Other specified age-related cataract & Right	3. only partial map possible
+7	H25.812	Combined forms of age-related cataract, left eye	9B10.0Y	Other specified age-related cataract	9B10.0Y&XK8G	Other specified age-related cataract & Left	3. only partial map possible
+7	H25.813	Combined forms of age-related cataract, bilateral	9B10.0Y	Other specified age-related cataract	9B10.0Y&XK9J	Other specified age-related cataract & Bilateral	3. only partial map possible
+7	H25.9	Unspecified age-related cataract	9B10.0Z	Age-related cataract, unspecified	NULL	NULL	1. full map by precoordination
+7	H26.491	Other secondary cataract, right eye	9B10.22	After-cataract	9B10.22&XK9K	After-cataract & Right	3. only partial map possible
+7	H26.492	Other secondary cataract, left eye	9B10.22	After-cataract	9B10.22&XK8G	After-cataract & Left	3. only partial map possible
+7	H26.493	Other secondary cataract, bilateral	9B10.22	After-cataract	9B10.22&XK9J	After-cataract & Bilateral	3. only partial map possible
+7	H26.8	Other specified cataract	9B10.2Y	Other specified cataracts	NULL	NULL	3. only partial map possible
+7	H26.9	Unspecified cataract	9B10.Z	Cataract, unspecified	NULL	NULL	1. full map by precoordination
+7	H35.30	Unspecified macular degeneration	9B78.3Z	Degeneration of macula or posterior pole, unspecified	NULL	NULL	3. only partial map possible
+7	H35.3130	Nonexudative age-related macular degeneration, bilateral, stage unspecified	9B75.0Z	Age related macular degeneration, unspecified	9B75.0Z&XK9J	Age related macular degeneration, unspecified & Bilateral	3. only partial map possible
+7	H35.371	Puckering of macula, right eye	9B78.3Y	Other specified degeneration of macula or posterior pole	9B78.3Y&XK9K	Other specified degeneration of macula or posterior pole & Right	3. only partial map possible
+7	H35.372	Puckering of macula, left eye	9B78.3Y	Other specified degeneration of macula or posterior pole	9B78.3Y&XK8G	Other specified degeneration of macula or posterior pole & Left	3. only partial map possible
+7	H35.373	Puckering of macula, bilateral	9B78.3Y	Other specified degeneration of macula or posterior pole	9B78.3Y&XK9J	Other specified degeneration of macula or posterior pole & Bilateral	3. only partial map possible
+7	H40.003	Preglaucoma, unspecified, bilateral	9C60	Glaucoma suspect	9C60&XK9J	Glaucoma suspect & Bilateral	2. full map by postcoordination
+7	H40.013	Open angle with borderline findings, low risk, bilateral	9C60	Glaucoma suspect	9C60&XK9J	Glaucoma suspect & Bilateral	3. only partial map possible
+7	H40.053	Ocular hypertension, bilateral	9C61.01	Ocular hypertension	NULL	NULL	3. only partial map possible
+7	H40.1131	Primary open-angle glaucoma, bilateral, mild stage	9C61.0Z	Primary open-angle glaucoma, unspecified	9C61.0Z&XK9J	Primary open-angle glaucoma, unspecified & Bilateral	3. only partial map possible
+7	H40.1132	Primary open-angle glaucoma, bilateral, moderate stage	9C61.0Z	Primary open-angle glaucoma, unspecified	9C61.0Z&XK9J	Primary open-angle glaucoma, unspecified & Bilateral	3. only partial map possible
+7	H40.1133	Primary open-angle glaucoma, bilateral, severe stage	9C61.0Z	Primary open-angle glaucoma, unspecified	9C61.0Z&XK9J	Primary open-angle glaucoma, unspecified & Bilateral	3. only partial map possible
+7	H40.9	Unspecified glaucoma	9C61.Z	Glaucoma, unspecified	NULL	NULL	1. full map by precoordination
+7	H43.811	Vitreous degeneration, right eye	9B8Y	Other specified disorders of the vitreous body	9B8Y&XK9K	Other specified disorders of the vitreous body & Right	3. only partial map possible
+7	H43.813	Vitreous degeneration, bilateral	9B8Y	Other specified disorders of the vitreous body	9B8Y&XK9J	Other specified disorders of the vitreous body & Bilateral	3. only partial map possible
+7	H52.03	Hypermetropia, bilateral	9D00.1	Hypermetropia	9D00.1&XK9J	Hypermetropia & Bilateral	2. full map by postcoordination
+7	H52.13	Myopia, bilateral	9D00.0	Myopia	9D00.0&XK9J	Myopia & Bilateral	2. full map by postcoordination
+7	H52.203	Unspecified astigmatism, bilateral	9D00.2	Astigmatism	9D00.2&XK9J	Astigmatism & Bilateral	2. full map by postcoordination
+7	H52.223	Regular astigmatism, bilateral	9D00.2	Astigmatism	9D00.2&XK9J	Astigmatism & Bilateral	3. only partial map possible
+7	H52.4	Presbyopia	9D00.3	Presbyopia	NULL	NULL	1. full map by precoordination
+7	H52.7	Unspecified disorder of refraction	9D00.Z	Disorders of refraction, unspecified	NULL	NULL	1. full map by precoordination
+7	H53.2	Diplopia	9D46	Impairment of binocular functions	NULL	NULL	3. only partial map possible
+7	H53.8	Other visual disturbances	MC1Y	Other specified symptoms or signs involving the visual system	NULL	NULL	3. only partial map possible
+7	H53.9	Unspecified visual disturbance	MC1Y	Other specified symptoms or signs involving the visual system	NULL	NULL	3. only partial map possible
+7	H54.7	Unspecified visual loss	9D9Z	Vision impairment, unspecified	NULL		1. full map by precoordination
+7	H54.8	Legal blindness, as defined in USA	9D90.3	Severe vision impairment	NULL	NULL	3. only partial map possible
+7	H57.12	Ocular pain, left eye	MC18	Ocular pain	NULL	NULL	3. only partial map possible
+8	H61.20	Impacted cerumen, unspecified ear	AA42	Impacted cerumen	AA42&XK70	Impacted cerumen & Unilateral, unspecified	2. full map by postcoordination
+8	H61.21	Impacted cerumen, right ear	AA42	Impacted cerumen	AA42&XK9K	Impacted cerumen & Right	2. full map by postcoordination
+8	H61.22	Impacted cerumen, left ear	AA42	Impacted cerumen	AA42&XK8G	Impacted cerumen & Left	2. full map by postcoordination
+8	H61.23	Impacted cerumen, bilateral	AA42	Impacted cerumen	AA42&XK9J	Impacted cerumen & Bilateral	2. full map by postcoordination
+8	H66.91	Otitis media, unspecified, right ear	AB0Z	Otitis media, unspecified	AB0Z&XK9K	Otitis media, unspecified & Right	2. full map by postcoordination
+8	H66.92	Otitis media, unspecified, left ear	AB0Z	Otitis media, unspecified	AB0Z&XK8G	Otitis media, unspecified & Left	2. full map by postcoordination
+8	H69.83	Other specified disorders of Eustachian tube, bilateral	AB10.Y	Other specified disorders of Eustachian tube	AB10.Z&XK9J	Other specified disorders of Eustachian tube & Bilateral	3. only partial map possible
+8	H81.10	Benign paroxysmal vertigo, unspecified ear	AB31.2	Benign positional paroxysmal vertigo	NULL		1. full map by precoordination
+8	H81.11	Benign paroxysmal vertigo, right ear	AB31.2	Benign positional paroxysmal vertigo	NULL	NULL	3. only partial map possible
+8	H81.13	Benign paroxysmal vertigo, bilateral	AB31.2	Benign positional paroxysmal vertigo	NULL	NULL	3. only partial map possible
+8	H90.3	Sensorineural hearing loss, bilateral	AB51.1	Acquired sensorineural hearing loss	AB51.1&XK9J	Acquired sensorineural hearing loss & Bilateral	3. only partial map possible
+8	H90.5	Unspecified sensorineural hearing loss	AB51.1	Acquired sensorineural hearing loss	NULL		3. only partial map possible
+8	H91.90	Unspecified hearing loss, unspecified ear	AB52	Deafness not otherwise specified	NULL	NULL	1. full map by precoordination
+8	H91.93	Unspecified hearing loss, bilateral	AB52	Deafness not otherwise specified	NULL	NULL	3. only partial map possible
+8	H92.01	Otalgia, right ear	AB70.2	Otalgia	AB70.2&XK9K	Otalgia & Right	2. full map by postcoordination
+8	H92.02	Otalgia, left ear	AB70.2	Otalgia	AB70.2&XK8G	Otalgia & Left	2. full map by postcoordination
+8	H93.13	Tinnitus, bilateral	MC41	Tinnitus	NULL	NULL	3. only partial map possible
+8	H93.19	Tinnitus, unspecified ear	MC41	Tinnitus	NULL	NULL	1. full map by precoordination
+9	I10	Essential (primary) hypertension	BA00.Z	Essential hypertension, unspecified	NULL	NULL	1. full map by precoordination
+9	I11.0	Hypertensive heart disease with heart failure	BA01	Hypertensive heart disease	BA01/BD1Z	Hypertensive heart disease & Heart failure	2. full map by postcoordination
+9	I12.9	Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease	BA02	Hypertensive renal disease	NULL	NULL	3. only partial map possible
+9	I13.0	Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease	BA01	Hypertensive heart disease	BA01/BD1Z/BA02	Hypertensive heart disease / Heart failure, unspecified / Hypertensive renal disease	3. only partial map possible
+9	I21.4	Non-ST elevation (NSTEMI) myocardial infarction	BA41.1	Acute non-ST elevation myocardial infarction	NULL		1. full map by precoordination
+9	I25.10	Atherosclerotic heart disease of native coronary artery without angina pectoris	BA80.0	Coronary atherosclerosis of native coronary artery	NULL	NULL	1. full map by precoordination
+9	I25.2	Old myocardial infarction	BA50	Old myocardial infarction	NULL	NULL	1. full map by precoordination
+9	I48.0	Paroxysmal atrial fibrillation	BC81.30	Paroxysmal atrial fibrillation	NULL	NULL	1. full map by precoordination
+9	I48.91	Unspecified atrial fibrillation	BC81.3Z	Atrial fibrillation, unspecified	NULL	NULL	1. full map by precoordination
+9	I50.32	Chronic diastolic (congestive) heart failure	BD11.0	Left ventricular failure with preserved ejection fraction	NULL	NULL	3. only partial map possible
+9	I50.33	Acute on chronic diastolic (congestive) heart failure	BD11.0	Left ventricular failure with preserved ejection fraction	NULL		3. only partial map possible
+9	I50.9	Heart failure, unspecified	BD1Z	Heart failure, unspecified	NULL	NULL	1. full map by precoordination
+9	I73.9	Peripheral vascular disease, unspecified	BD4Z	Chronic arterial occlusive disease, unspecified	NULL	NULL	1. full map by precoordination
+9	I95.9	Hypotension, unspecified	BA2Z	Hypotension, unspecified	NULL	NULL	1. full map by precoordination
+10	J02.9	Acute pharyngitis, unspecified	CA02.Z	Acute pharyngitis, unspecified	NULL	NULL	1. full map by precoordination
+10	J06.9	Acute upper respiratory infection, unspecified	CA07.0	Acute upper respiratory infection, site unspecified	NULL	NULL	1. full map by precoordination
+10	J18.9	Pneumonia, unspecified organism	CA40.Z	Pneumonia, organism unspecified	NULL	NULL	1. full map by precoordination
+10	J20.9	Acute bronchitis, unspecified	CA42.Z	Acute bronchitis, unspecified	NULL	NULL	1. full map by precoordination
+10	J30.9	Allergic rhinitis, unspecified	CA08.0Z	Allergic rhinitis, unspecified	NULL		1. full map by precoordination
+10	J40	Bronchitis, not specified as acute or chronic	CA20.Z	Bronchitis, unspecified	NULL		1. full map by precoordination
+10	J44.0	Chronic obstructive pulmonary disease with (acute) lower respiratory infection	CA22.Z	Chronic obstructive pulmonary disease, unspecified	NULL		3. only partial map possible
+10	J44.1	Chronic obstructive pulmonary disease with (acute) exacerbation	CA22.0	Chronic obstructive pulmonary disease with acute exacerbation, unspecified	NULL	NULL	1. full map by precoordination
+10	J44.9	Chronic obstructive pulmonary disease, unspecified	CA22.Z	Chronic obstructive pulmonary disease, unspecified	NULL	NULL	1. full map by precoordination
+10	J45.909	Unspecified asthma, uncomplicated	CA23.32	Unspecified asthma, uncomplicated	NULL	NULL	1. full map by precoordination
+10	J96.01	Acute respiratory failure with hypoxia	CB41.00	Acute respiratory failure, Type I	NULL		1. full map by precoordination
+10	J96.21	Acute and chronic respiratory failure with hypoxia	CB41.2Z	Respiratory failure, unspecified	NULL		3. only partial map possible
+11	K21.0	Gastro-esophageal reflux disease with esophagitis	DA22.Z	Gastro-oesophageal reflux disease, unspecified	NULL	NULL	3. only partial map possible
+11	K21.9	Gastro-esophageal reflux disease without esophagitis	DA22.Z	Gastro-oesophageal reflux disease, unspecified	NULL	NULL	1. full map by precoordination
+11	K29.50	Unspecified chronic gastritis without bleeding	DA42.Z	Gastritis, unspecified	DA42.Z&XT8W	Gastritis, unspecified & Chronic	2. full map by postcoordination
+11	K29.70	Gastritis, unspecified, without bleeding	DA42.Z	Gastritis, unspecified	NULL	NULL	1. full map by precoordination
+11	K31.84	Gastroparesis	DA41.00	Gastroparesis	NULL	NULL	1. full map by precoordination
+11	K40.90	Unilateral inguinal hernia, without obstruction or gangrene, not specified as recurrent	DD51	Inguinal hernia	DD51&XK70	Inguinal hernia & Unilateral, unspecified	2. full map by postcoordination
+11	K44.9	Diaphragmatic hernia without obstruction or gangrene	DD50.0	Diaphragmatic hernia	NULL		1. full map by precoordination
+11	K52.9	Noninfective gastroenteritis and colitis, unspecified	DA42.Z	Gastritis, unspecified	NULL		3. only partial map possible
+11	K56.7	Ileus, unspecified	DA93.0	Paralytic ileus	NULL	NULL	3. only partial map possible
+11	K57.30	Diverticulosis of large intestine without perforation or abscess without bleeding	DC81.1	Respiratory failure, unspecified	NULL		1. full map by precoordination
+11	K57.32	Diverticulitis of large intestine without perforation or abscess without bleeding	DC80.Z	Diverticulitis of large intestine without specification of presence of complications	NULL	NULL	1. full map by precoordination
+11	K57.90	Diverticulosis of intestine, part unspecified, without perforation or abscess without bleeding	DD01.1	Diverticulosis of unspecified part of intestine without haemorrhage	NULL		1. full map by precoordination
+11	K58.9	Irritable bowel syndrome without diarrhea	DD91.0Z	Irritable bowel syndrome, type unspecified	NULL	NULL	1. full map by precoordination
+11	K59.00	Constipation, unspecified	ME05.0	Constipation	NULL	NULL	1. full map by precoordination
+11	K59.09	Other constipation	ME05.0	Constipation	NULL	NULL	3. only partial map possible
+11	K62.5	Hemorrhage of anus and rectum	ME24.A1	Haemorrhage of anus and rectum	NULL	NULL	1. full map by precoordination
+11	K63.5	Polyp of colon	DB35.Z	Polyp of large intestine, unspecified	NULL	NULL	1. full map by precoordination
+11	K64.8	Other hemorrhoids	DB60.Z	Haemorrhoids, unspecified	NULL	NULL	3. only partial map possible
+11	K72.90	Hepatic failure, unspecified without coma	DB99.7	Hepatic failure without mention whether acute or chronic	NULL	NULL	1. full map by precoordination
+11	K74.60	Unspecified cirrhosis of liver	DB93.1	Hepatic cirrhosis	NULL	NULL	1. full map by precoordination
+11	K76.0	Fatty (change of) liver, not elsewhere classified	DB92.Y	Other specified non-alcoholic fatty liver disease	NULL	NULL	3. only partial map possible
+11	K80.20	Calculus of gallbladder without cholecystitis without obstruction	DC11.3	Calculus of gallbladder or cystic duct without cholecystitis or cholangitis	NULL	NULL	3. only partial map possible
+11	K85.90	Acute pancreatitis without necrosis or infection, unspecified	DC31.Z	Acute pancreatitis, unspecified	NULL	NULL	1. full map by precoordination
+11	K92.1	Melena	ME24.A4	Melaena	NULL	NULL	1. full map by precoordination
+11	K92.2	Gastrointestinal hemorrhage, unspecified	ME24.9Z	Gastrointestinal bleeding, unspecified	NULL	NULL	1. full map by precoordination
+12	L02.211	Cutaneous abscess of abdominal wall	1B75.3	Pyogenic abscess of the skin	1B75.3&XA3KX0	Pyogenic abscess of the skin & Abdominal wall	2. full map by postcoordination
+12	L02.91	Cutaneous abscess, unspecified	1B75.3	Pyogenic abscess of the skin	NULL	NULL	1. full map by precoordination
+12	L03.031	Cellulitis of right toe	1B70.Z	Bacterial cellulitis or lymphangitis due to unspecified bacterium	1B70.Z&XA4LC9	 Bacterial cellulitis or lymphangitis due to unspecified bacterium & Toe	3. only partial map possible
+12	L03.032	Cellulitis of left toe	1B70.Z	Bacterial cellulitis or lymphangitis due to unspecified bacterium	1B70.Z&XA4LC9	Bacterial cellulitis or lymphangitis due to unspecified bacterium & Toes	3. only partial map possible
+12	L03.113	Cellulitis of right upper limb	1B70.Z	Bacterial cellulitis or lymphangitis due to unspecified bacterium	1B70.Z&XA4BA8	Bacterial cellulitis or lymphangitis due to unspecified bacterium & Upper Extremity	3. only partial map possible
+12	L03.114	Cellulitis of left upper limb	1B70.Z	Bacterial cellulitis or lymphangitis due to unspecified bacterium	1B70.Z&XA4BA8	Bacterial cellulitis or lymphangitis due to unspecified bacterium & Upper Extremity	3. only partial map possible
+12	L03.115	Cellulitis of right lower limb	1B70.Z	Bacterial cellulitis or lymphangitis due to unspecified bacterium	1B70.Z&XA45A6	Bacterial cellulitis or lymphangitis due to unspecified bacterium	3. only partial map possible
+12	L03.116	Cellulitis of left lower limb	1B70.Z	Bacterial cellulitis or lymphangitis due to unspecified bacterium	1B70.Z&XA45A6	Bacterial cellulitis or lymphangitis due to unspecified bacterium & Lower Extremity	3. only partial map possible
+12	L03.119	Cellulitis of unspecified part of limb	1B70.Z	Bacterial cellulitis or lymphangitis due to unspecified bacterium	1B70.Z&XA6AS2	Bacterial cellulitis or lymphangitis due to unspecified bacterium & Extremities	3. only partial map possible
+12	L03.211	Cellulitis of face	1B70.Z	Bacterial cellulitis or lymphangitis due to unspecified bacterium	1B70.Z&XA86S4	Bacterial cellulitis or lymphangitis due to unspecified bacterium & Face	3. only partial map possible
+12	L03.311	Cellulitis of abdominal wall	1B70.Z	Bacterial cellulitis or lymphangitis due to unspecified bacterium	1B70.Z&XA3KX0	Bacterial cellulitis or lymphangitis due to unspecified bacterium & Abdominal wall	3. only partial map possible
+12	L03.90	Cellulitis, unspecified	1B70.Z	Bacterial cellulitis or lymphangitis due to unspecified bacterium	NULL	NULL	3. only partial map possible
+12	L08.9	Local infection of the skin and subcutaneous tissue, unspecified	EA6Y	Cutaneous involvement by other specified infection or infestation	NULL		3. only partial map possible
+12	L21.9	Seborrheic dermatitis, unspecified	EA81.Z	Seborrhoeic dermatitis, unspecified	NULL	NULL	1. full map by precoordination
+12	L25.9	Unspecified contact dermatitis, unspecified cause	EK5Y	Other specified skin disorders provoked by external factors	NULL	NULL	3. only partial map possible
+12	L27.0	Generalized skin eruption due to drugs and medicaments taken internally	EH6Z	Drug eruption of unspecified type	NULL		3. only partial map possible
+12	L29.9	Pruritus, unspecified	EC90.Z	Pruritus, unspecified	NULL	NULL	1. full map by precoordination
+12	L30.9	Dermatitis, unspecified	EA8Z	Dermatitis or eczema, unspecified	NULL	NULL	2. full map by postcoordination
+12	L40.50	Arthropathic psoriasis, unspecified	FA21.Z	Psoriatic arthritis, unspecified	NULL	NULL	1. full map by precoordination
+12	L40.9	Psoriasis, unspecified	EA90.Z	Psoriasis of unspecified type	NULL	NULL	1. full map by precoordination
+12	L50.9	Urticaria, unspecified	EB05	Urticaria of unspecified type	NULL	NULL	1. full map by precoordination
+12	L53.9	Erythematous condition, unspecified	EB10	Diffuse inflammatory erythemas	NULL	NULL	3. only partial map possible
+12	L57.0	Actinic keratosis	EK90.0	Actinic keratosis	NULL	NULL	1. full map by precoordination
+12	L57.8	Other skin changes due to chronic exposure to nonionizing radiation	ME66.Y	Other specified skin changes	NULL	NULL	3. only partial map possible
+12	L60.0	Ingrowing nail	EE13.Y	Other specified nail disorder	NULL	NULL	3. only partial map possible
+12	L60.2	Onychogryphosis	EE10.3	Nail hypertrophy	NULL	NULL	3. only partial map possible
+12	L60.3	Nail dystrophy	EE10.5	Nail dystrophy, not otherwise specified	NULL	NULL	1. full map by precoordination
+12	L65.9	Nonscarring hair loss, unspecified	ED70.Y	Other specified alopecia or hair loss	NULL	NULL	3. only partial map possible
+12	L71.9	Rosacea, unspecified	ED90.0Y	Other specified rosacea	NULL	NULL	3. only partial map possible
+12	L72.0	Epidermal cyst	EK70.0Z	Epidermoid cyst, unspecified	NULL	NULL	1. full map by precoordination
+12	L72.3	Sebaceous cyst	EK70.0Z	Epidermoid cyst, unspecified	NULL	NULL	3. only partial map possible
+12	L73.9	Follicular disorder, unspecified	ED9Y	Other specified disorders involving the hair follicle	NULL	NULL	3. only partial map possible
+12	L76.32	Postprocedural hematoma of skin and subcutaneous tissue following other procedure	NE81.00	Haematoma of surgical wound of skin	NE81.00&XA2013	Haematoma of surgical wound of skin&Hypodermis	2. full map by postcoordination
+12	L81.4	Other melanin hyperpigmentation	ED6Y	Other specified disorders of skin pigmentation	NULL	NULL	3. only partial map possible
+12	L82.0	Inflamed seborrheic keratosis	2F21.0	Seborrhoeic keratosis	NULL	NULL	3. only partial map possible
+12	L82.1	Other seborrheic keratosis	2F21.0	Seborrhoeic keratosis	NULL	NULL	3. only partial map possible
+12	L84	Corns and callosities	EH92.0Z	Callosity, unspecified	NULL	NULL	1. full map by precoordination
+12	L85.3	Xerosis cutis	ED54	Xerosis cutis or asteatosis	NULL	NULL	3. only partial map possible
+12	L89.150	Pressure ulcer of sacral region, unstageable	EH90.5	Pressure ulceration, ungradable	EH90.5&XA2UC8	Pressure ulceration, ungradable & Sacral region	2. full map by postcoordination
+12	L89.151	Pressure ulcer of sacral region, stage 1	EH90.0	Pressure ulceration grade 1	EH90.0&XA2UC8	Pressure ulceration grade 1 & Sacral region	2. full map by postcoordination
+12	L89.152	Pressure ulcer of sacral region, stage 2	EH90.1	Pressure ulceration grade 2	EH90.1&XA2UC8	Pressure ulceration grade 2 & Sacral region	2. full map by postcoordination
+12	L89.153	Pressure ulcer of sacral region, stage 3	EH90.2	Pressure ulceration grade 3	EH90.2&XA2UC8	Pressure ulceration grade 3 & Sacral region	2. full map by postcoordination
+12	L89.154	Pressure ulcer of sacral region, stage 4	EH90.3	Pressure ulceration grade 4	EH90.3&XA2UC8	Pressure ulceration grade 4 & Sacral region	2. full map by postcoordination
+12	L89.159	Pressure ulcer of sacral region, unspecified stage	EH90.Z	Pressure ulcer of unspecified grade	EH90.Z&XA2UC8	Pressure ulcer of unspecified grade & Sacral region	2. full map by postcoordination
+12	L89.312	Pressure ulcer of right buttock, stage 2	EH90.1	Pressure ulceration grade 2	EH90.1&XA3VA7	Pressure ulceration grade 2 & Buttock	3. only partial map possible
+12	L89.322	Pressure ulcer of left buttock, stage 2	EH90.1	Pressure ulceration grade 2	EH90.1&XA3VA7	Pressure ulceration grade 2 & Buttock	3. only partial map possible
+12	L90.5	Scar conditions and fibrosis of skin	EE6Y	Other specified fibromatous disorders of skin and soft tissue	NULL	NULL	3. only partial map possible
+12	L91.8	Other hypertrophic disorders of the skin	EM0Y	Other specified diseases of the skin	NULL	NULL	3. only partial map possible
+12	L97.419	Non-pressure chronic ulcer of right heel and midfoot with unspecified severity	ME60.2	Ulcer of skin of uncertain nature	NULL	NULL	3. only partial map possible
+12	L97.429	Non-pressure chronic ulcer of left heel and midfoot with unspecified severity	ME60.2	Ulcer of skin of uncertain nature	NULL	NULL	3. only partial map possible
+12	L97.511	Non-pressure chronic ulcer of other part of right foot limited to breakdown of skin	ME60.2	Ulcer of skin of uncertain nature	NULL	NULL	3. only partial map possible
+12	L97.512	Non-pressure chronic ulcer of other part of right foot with fat layer exposed	ME60.2	Ulcer of skin of uncertain nature	NULL	NULL	3. only partial map possible
+12	L97.519	Non-pressure chronic ulcer of other part of right foot with unspecified severity	ME60.2	Ulcer of skin of uncertain nature	NULL	NULL	3. only partial map possible
+12	L97.521	Non-pressure chronic ulcer of other part of left foot limited to breakdown of skin	ME60.2	Ulcer of skin of uncertain nature	NULL	NULL	3. only partial map possible
+12	L97.522	Non-pressure chronic ulcer of other part of left foot with fat layer exposed	ME60.2	Ulcer of skin of uncertain nature	NULL	NULL	3. only partial map possible
+12	L97.529	Non-pressure chronic ulcer of other part of left foot with unspecified severity	ME60.2	Ulcer of skin of uncertain nature	NULL	NULL	3. only partial map possible
+12	L97.919	Non-pressure chronic ulcer of unspecified part of right lower leg with unspecified severity	ME60.2	Ulcer of skin of uncertain nature	NULL	NULL	3. only partial map possible
+12	L97.929	Non-pressure chronic ulcer of unspecified part of left lower leg with unspecified severity	ME60.2	Ulcer of skin of uncertain nature	NULL	NULL	3. only partial map possible
+12	L98.499	Non-pressure chronic ulcer of skin of other sites with unspecified severity	ME60.2	Ulcer of skin of uncertain nature	NULL	NULL	3. only partial map possible
+12	L98.8	Other specified disorders of the skin and subcutaneous tissue	EM0Y	Other specified diseases of the skin	NULL	NULL	3. only partial map possible
+12	L98.9	Disorder of the skin and subcutaneous tissue, unspecified	EM0Z	Skin disease of unspecified nature	NULL	NULL	3. only partial map possible
+13	M06.9	Rheumatoid arthritis, unspecified	FA20.Z	Rheumatoid arthritis, serology unspecified	NULL	NULL	1. full map by precoordination
+13	M10.9	Gout, unspecified	FA25.2Z	Gout, unspecified	NULL	NULL	1. full map by precoordination
+13	M15.0	Primary generalized (osteo)arthritis	FA05	Polyosteoarthritis	NULL	NULL	3. only partial map possible
+13	M16.11	Unilateral primary osteoarthritis, right hip	FA00.0	Primary osteoarthritis of hip	FA00.0&XK9K	Primary osteoarthritis of hip & Right	2. full map by postcoordination
+13	M16.12	Unilateral primary osteoarthritis, left hip	FA00.0	Primary osteoarthritis of hip	FA00.0&XK8G	Primary osteoarthritis of hip & Left	2. full map by postcoordination
+13	M17.0	Bilateral primary osteoarthritis of knee	FA01.0	Primary osteoarthritis of knee	FA01.0&XK9J	Primary osteoarthritis of knee & Bilateral	2. full map by postcoordination
+13	M17.11	Unilateral primary osteoarthritis, right knee	FA01.0	Primary osteoarthritis of knee	FA01.0&XK9K	Primary osteoarthritis of knee & Right	2. full map by postcoordination
+13	M17.12	Unilateral primary osteoarthritis, left knee	FA01.0	Primary osteoarthritis of knee	FA01.0&XK8G	Primary osteoarthritis of knee & Left	2. full map by postcoordination
+13	M19.011	Primary osteoarthritis, right shoulder	FA03.0	Primary osteoarthritis of other specified joint	FA03.0&XA05J7	Primary osteoarthritis of other specified joint & Shoulder joint	3. only partial map possible
+13	M19.90	Unspecified osteoarthritis, unspecified site	FA0Z	Osteoarthritis, unspecified	NULL	NULL	1. full map by precoordination
+13	M25.50	Pain in unspecified joint	ME82	Pain in joint	NULL	NULL	1. full map by precoordination
+13	M25.511	Pain in right shoulder	ME82	Pain in joint	ME82&XA05J7	Other specified shoulder lesions & Shoulder joint	3. only partial map possible
+13	M25.512	Pain in left shoulder	ME82	Pain in joint	ME82&XA05J7	Other specified shoulder lesions & Shoulder joint	3. only partial map possible
+13	M25.551	Pain in right hip	ME82	Pain in joint	ME82&XA4XS4	Other specified shoulder lesions & Hip joint	3. only partial map possible
+13	M25.552	Pain in left hip	ME82	Pain in joint	ME82&XA4XS4	Pain in joint & Hip joint	3. only partial map possible
+13	M25.561	Pain in right knee	FB56.4	Pain in limb	FB56.4&XK9K&XA8KL5	Pain in limb & Right & Knee	2. full map by postcoordination
+13	M25.562	Pain in left knee	FB56.4	Pain in limb	FB56.4&XK8G&XA8KL5	Pain in limb	2. full map by postcoordination
+13	M43.16	Spondylolisthesis, lumbar region	FA84.Z	Spondylolisthesis, unspecified	FA84.Z&XA0D60	Spondylolisthesis, unspecified & Lumbar vertebra	2. full map by postcoordination
+13	M47.812	Spondylosis without myelopathy or radiculopathy, cervical region	FA8Z	Degenerative condition of spine, unspecified	FA8Z&XA9ZW8	Degenerative condition of spine, unspecified & Cervical	2. full map by postcoordination
+13	M47.816	Spondylosis without myelopathy or radiculopathy, lumbar region	FA8Z	Degenerative condition of spine, unspecified	FA8Z&XA0D60	Degenerative condition of spine, unspecified & Lumbar	2. full map by postcoordination
+13	M48.02	Spinal stenosis, cervical region	ME93.41	Intervertebral disc stenosis of neural canal, cervical region	NULL	NULL	1. full map by precoordination
+13	M51.16	Intervertebral disc disorders with radiculopathy, lumbar region	8B93.6	Radiculopathy due to intervertebral disc disorders	NULL	NULL	3. only partial map possible
+13	M51.26	Other intervertebral disc displacement, lumbar region	FB1Y	Other specified conditions associated with the spine	FB1Y&XA54S5	Other specified conditions associated with the spine & Lumbar discs or space	3. only partial map possible
+13	M51.36	Other intervertebral disc degeneration, lumbar region	FA80.8	Intervertebral disc degeneration of lumbar spine without prolapsed disc	NULL	NULL	1. full map by precoordination
+13	M54.12	Radiculopathy, cervical region	8B93.Y	Other specified radiculopathy	NULL	NULL	3. only partial map possible
+13	M54.16	Radiculopathy, lumbar region	8B93.Y	Other specified radiculopathy	NULL	NULL	3. only partial map possible
+13	M54.2	Cervicalgia	ME84.0	Cervical spine pain	NULL	NULL	1. full map by precoordination
+13	M54.41	Lumbago with sciatica, right side	ME84.20	Lumbago with sciatica	NULL	NULL	3. only partial map possible
+13	M54.42	Lumbago with sciatica, left side	ME84.20	Lumbago with sciatica	NULL	NULL	3. only partial map possible
+13	M54.5	Low back pain	ME84.2Z	Low back pain, unspecified	NULL	NULL	1. full map by precoordination
+13	M54.6	Pain in thoracic spine	ME84.1	Thoracic spine pain	NULL	NULL	1. full map by precoordination
+13	M54.9	Dorsalgia, unspecified	ME84.Z	Spinal pain, unspecified	NULL	NULL	3. only partial map possible
+13	M62.81	Muscle weakness (generalized)	FB32.Y	Other specified disorders of muscles	NULL	NULL	3. only partial map possible
+13	M62.82	Rhabdomyolysis	FB32.20	Idiopathic rhabdomyolysis	NULL	NULL	3. only partial map possible
+13	M79.604	Pain in right leg	FB56.4	Pain in limb	FB56.4&XA45A6&XK9K	Pain in limb & Lower Extremity & Right	2. full map by postcoordination
+13	M79.605	Pain in left leg	FB56.4	Pain in limb	FB56.4&XA45A6&XK8G	Pain in limb & Lower Extremity & Left	2. full map by postcoordination
+13	M79.671	Pain in right foot	FB56.4	Pain in limb	FB56.4&XA47V8&XK9K	Pain in limb & Foot & Right	2. full map by postcoordination
+13	M79.672	Pain in left foot	FB56.4	Pain in limb	FB56.4&XA47V8&XK8G	Pain in limb & Foot & Left	2. full map by postcoordination
+13	M79.7	Fibromyalgia	MG30.01	Chronic widespread pain	NULL	NULL	3. only partial map possible
+13	M79.89	Other specified soft tissue disorders	FB56.6	Other specified soft tissue disorders	NULL		3. only partial map possible
+13	M81.0	Age-related osteoporosis without current pathological fracture	FB83.1Y	Other specified osteoporosis	FB83.1Y&XT9T	Other specified osteoporosis & Ageing-related	2. full map by postcoordination
+13	M85.80	Other specified disorders of bone density and structure, unspecified site	FB80.Y	Other specified disorders of bone density and structure	NULL	NULL	3. only partial map possible
+13	M85.88	Other specified disorders of bone density and structure, other site	FB80.Y	Other specified disorders of bone density and structure	NULL	NULL	3. only partial map possible
+14	N17.9	Acute kidney failure, unspecified	GB60.Z	Acute kidney failure, stage unspecified	NULL	NULL	1. full map by precoordination
+14	N18.3	Chronic kidney disease, stage 3 (moderate)	GB61.Z	GB61.Z Chronic kidney disease, stage unspecified	NULL	NULL	3. only partial map possible
+14	N18.4	Chronic kidney disease, stage 4 (severe)	GB61.4	Chronic kidney disease, stage 4	NULL	NULL	1. full map by precoordination
+14	N18.6	End stage renal disease	GB61.5	Chronic kidney disease, stage 5	NULL	NULL	1. full map by precoordination
+14	N18.9	Chronic kidney disease, unspecified	GB61.Z	Chronic kidney disease, stage unspecified	NULL	NULL	1. full map by precoordination
+14	N20.0	Calculus of kidney	GB70.0Z	Calculus of kidney, unspecified	NULL	NULL	1. full map by precoordination
+14	N25.81	Secondary hyperparathyroidism of renal origin	5A51.1	Secondary hyperparathyroidism	5A51.1/GC2Z&XA6KU8	Secondary hyperparathyroidism / Diseases of the urinary system, unspecified & Kidney	2. full map by postcoordination
+14	N39.0	Urinary tract infection, site not specified	GC08.Z	Urinary tract infection, site and agent not specified	NULL	NULL	1. full map by precoordination
+14	N40.0	Benign prostatic hyperplasia without lower urinary tract symptoms	GA90	Hyperplasia of prostate	NULL	NULL	1. full map by precoordination
+14	N40.1	Benign prostatic hyperplasia with lower urinary tract symptoms	GA90	Hyperplasia of prostate	NULL	NULL	3. only partial map possible
+15	O02.1             	Missed abortion	JA03	Missed abortion	NULL	NULL	1. full map by precoordination
+15	O03.9             	Complete or unspecified spontaneous abortion without complication	JA00.09	Spontaneous abortion, complete or unspecified, without complication	NULL	NULL	1. full map by precoordination
+15	O09.219           	Supervision of pregnancy with history of pre-term labor, unspecified trimester	QA43.2	Supervision of pregnancy with other poor reproductive or obstetric history	NULL	NULL	3. only partial map possible
+15	O09.291           	Supervision of pregnancy with other poor reproductive or obstetric history, first trimester	QA43.2	Supervision of pregnancy with other poor reproductive or obstetric history	NULL		3. only partial map possible
+15	O09.299           	Supervision of pregnancy with other poor reproductive or obstetric history, unspecified trimester	QA43.2	Supervision of pregnancy with other poor reproductive or obstetric history	NULL		3. only partial map possible
+15	O09.30            	Supervision of pregnancy with insufficient antenatal care, unspecified trimester	QA43.3	Supervision of pregnancy with history of insufficient antenatal care	NULL		1. full map by precoordination
+15	O09.521           	Supervision of elderly multigravida, first trimester	QA43.Y	Other specified supervision of high-risk pregnancy	NULL		3. only partial map possible
+15	O09.522           	Supervision of elderly multigravida, second trimester	QA43.Y	Other specified supervision of high-risk pregnancy	NULL		3. only partial map possible
+15	O09.523           	Supervision of elderly multigravida, third trimester	QA43.Y	Other specified supervision of high-risk pregnancy	NULL	NULL	3. only partial map possible
+15	O09.529           	Supervision of elderly multigravida, unspecified trimester	QA43.Y	Other specified supervision of high-risk pregnancy	NULL	NULL	3. only partial map possible
+15	O09.899           	Supervision of other high risk pregnancies, unspecified trimester	QA43.Y	Other specified supervision of high-risk pregnancy	NULL	NULL	3. only partial map possible
+15	O09.90            	Supervision of high risk pregnancy, unspecified, unspecified trimester	QA43.Z	Supervision of high-risk pregnancy, unspecified	NULL	NULL	1. full map by precoordination
+15	O09.93            	Supervision of high risk pregnancy, unspecified, third trimester	QA43.Z	Supervision of high-risk pregnancy, unspecified	NULL	NULL	3. only partial map possible
+15	O10.919           	Unspecified pre-existing hypertension complicating pregnancy, unspecified trimester	JA20.Z	Pre-existing hypertension complicating pregnancy, childbirth or the puerperium, unspecified	NULL	NULL	3. only partial map possible
+15	O13.3             	Gestational [pregnancy-induced] hypertension without significant proteinuria, third trimester	JA23	Gestational hypertension	NULL	NULL	3. only partial map possible
+15	O16.3             	Unspecified maternal hypertension, third trimester	JA23	Gestational hypertension	NULL	NULL	3. only partial map possible
+15	O20.0             	Threatened abortion	JA40.0	Threatened abortion	NULL	NULL	1. full map by precoordination
+15	O20.9             	Hemorrhage in early pregnancy, unspecified	JA40.Y	Other specified haemorrhage in early pregnancy	NULL		3. only partial map possible
+15	O21.9             	Vomiting of pregnancy, unspecified	JA60.Z	Excessive vomiting in pregnancy, unspecified	NULL	NULL	1. full map by precoordination
+15	O24.410           	Gestational diabetes mellitus in pregnancy, diet controlled	JA63.2	Diabetes mellitus arising in pregnancy	NULL	NULL	3. only partial map possible
+15	O24.419           	Gestational diabetes mellitus in pregnancy, unspecified control	JA63.2	Diabetes mellitus arising in pregnancy	NULL	NULL	1. full map by precoordination
+15	O26.841           	Uterine size-date discrepancy, first trimester	JA86.Y	Maternal care for other specified fetal problems	NULL	NULL	3. only partial map possible
+15	O26.843           	Uterine size-date discrepancy, third trimester	JA86.Y	Maternal care for other specified fetal problems	NULL	NULL	3. only partial map possible
+15	O26.849           	Uterine size-date discrepancy, unspecified trimester	JA86.Y	Maternal care for other specified fetal problems	NULL	NULL	3. only partial map possible
+15	O26.891           	Other specified pregnancy related conditions, first trimester	JA65.Y	Maternal care for other specified conditions predominantly related to pregnancy	NULL	NULL	3. only partial map possible
+15	O26.892           	Other specified pregnancy related conditions, second trimester	JA65.Y	Maternal care for other specified conditions predominantly related to pregnancy	NULL	NULL	3. only partial map possible
+15	O26.893           	Other specified pregnancy related conditions, third trimester	JA65.Y	Maternal care for other specified conditions predominantly related to pregnancy	NULL	NULL	3. only partial map possible
+15	O26.899           	Other specified pregnancy related conditions, unspecified trimester	JA65.Y	Maternal care for other specified conditions predominantly related to pregnancy	NULL	NULL	3. only partial map possible
+15	O28.3             	Abnormal ultrasonic finding on antenatal screening of mother	JA66.3	Abnormal ultrasonic finding on antenatal screening of mother	NULL	NULL	1. full map by precoordination
+15	O28.9             	Unspecified abnormal findings on antenatal screening of mother	JA66.Z	Clinical findings on antenatal screening of mother, unspecified	NULL		1. full map by precoordination
+15	O30.009           	Twin pregnancy, unspecified number of placenta and unspecified number of amniotic sacs, unspecified trimester	JA80.0	Twin pregnancy	NULL	NULL	3. only partial map possible
+15	O32.1XX0	Maternal care for breech presentation, not applicable or unspecified	JA82.1	Maternal care for breech presentation	NULL	NULL	1. full map by precoordination
+15	O35.8XX0          	Maternal care for other (suspected) fetal abnormality and damage, not applicable or unspecified	JA85.Y	Maternal care for known or suspected other specified fetal abnormality or damage	NULL	NULL	3. only partial map possible
+15	O35.8XX1          	Maternal care for other (suspected) fetal abnormality and damage, fetus 1	JA85.Y	Maternal care for known or suspected other specified fetal abnormality or damage	NULL	NULL	3. only partial map possible
+15	O36.5990          	Maternal care for other known or suspected poor fetal growth, unspecified trimester, not applicable or unspecified	JA86.4	Maternal care for fetal growth restriction	NULL	NULL	3. only partial map possible
+15	O36.80X0          	Pregnancy with inconclusive fetal viability, not applicable or unspecified	JA86.Y	Maternal care for other specified fetal problems	NULL	NULL	3. only partial map possible
+15	O48.0             	Post-term pregnancy	JA8E	Maternal care related to prolonged pregnancy	NULL	NULL	1. full map by precoordination
+15	O80	Encounter for full-term uncomplicated delivery	JB20.Z	Single spontaneous delivery, unspecified	NULL		1. full map by precoordination
+15	O92.70	Unspecified disorders of lactation	JB46.7	Other or unspecified disorders of lactation	NULL	NULL	3. only partial map possible
+15	O99.019           	Anemia complicating pregnancy, unspecified trimester	JB64.0	Anaemia complicating pregnancy, childbirth or the puerperium	NULL		3. only partial map possible
+15	O99.210           	Obesity complicating pregnancy, unspecified trimester	JB64.2	Endocrine, nutritional or metabolic diseases complicating pregnancy, childbirth or the puerperium	NULL		3. only partial map possible
+15	O99.345           	Other mental disorders complicating the puerperium	JB64.Y	Other specified maternal diseases classifiable elsewhere but complicating pregnancy, childbirth or the puerperium	NULL		3. only partial map possible
+15	O99.810           	Abnormal glucose complicating pregnancy	JA66.1	Abnormal biochemical finding on antenatal screening of mother	NULL		3. only partial map possible
+15	O99.820           	Streptococcus B carrier state complicating pregnancy	JA65.Y	Maternal care for other specified conditions predominantly related to pregnancy	NULL		3. only partial map possible
+15	O99.89            	Other specified diseases and conditions complicating pregnancy, childbirth and the puerperium	JB64.Y	Other specified maternal diseases classifiable elsewhere but complicating pregnancy, childbirth or the puerperium	NULL		3. only partial map possible
+16	P07.30	Preterm newborn, unspecified weeks of gestation	KA21.4Z	Preterm newborn, unspecified	NULL	NULL	1. full map by precoordination
+16	P09	Abnormal findings on neonatal screening	MG71.0	Abnormal findings on neonatal screening	NULL	NULL	1. full map by precoordination
+16	P22.0	Respiratory distress syndrome of newborn	KB23.0Z	Respiratory distress syndrome of newborn, unspecified	NULL	NULL	1. full map by precoordination
+16	P27.1	Bronchopulmonary dysplasia originating in the perinatal period	KB29.0	Bronchopulmonary dysplasia originating in the perinatal period	NULL	NULL	1. full map by precoordination
+16	P59.3             	Neonatal jaundice from breast milk inhibitor	KA87.2	Neonatal hyperbilirubinaemia due to breast milk inhibitor of bilirubin conjugation	NULL	NULL	1. full map by precoordination
+16	P59.9	Neonatal jaundice, unspecified	KA87.Z	Neonatal hyperbilirubinaemia, unspecified	NULL	NULL	1. full map by precoordination
+16	P78.83            	Newborn esophageal reflux	KB80	Gastro-oesophageal reflux disease in newborn	NULL	NULL	1. full map by precoordination
+16	P83.81	Umbilical granuloma	KC20.2	Umbilical granuloma of newborn	NULL	NULL	1. full map by precoordination
+16	P92.5	Neonatal difficulty in feeding at breast	KD32.3	Neonatal difficulty in feeding at breast	NULL	NULL	1. full map by precoordination
+16	P92.6             	Failure to thrive in newborn	KD32.4	Failure to thrive in newborn	NULL	NULL	1. full map by precoordination
+16	P92.9             	Feeding problem of newborn, unspecified	KD32.Z	Feeding problems of newborn, unspecified	NULL	NULL	1. full map by precoordination
+16	P96.89	Other specified conditions originating in the perinatal period	KD3Y	Other specified disorders originating in the perinatal period	NULL	NULL	3. only partial map possible
+17	Q02	Microcephaly	LA05.0	Microcephaly	NULL	NULL	1. full map by precoordination
+17	Q04.8	Other specified congenital malformations of brain	LA05.Z	Cerebral structural developmental anomalies, unspecified	NULL	NULL	3. only partial map possible
+17	Q06.8             	Other specified congenital malformations of spinal cord	LA07.Y	Other specified structural developmental anomalies of the neurenteric canal, spinal	LA07.Y&XA0V83	Other specified structural developmental anomalies of the neurenteric canal, spinal & Spinal cord	2. full map by postcoordination
+17	Q07.9	Congenital malformation of nervous system, unspecified	8E7Z	Diseases of the nervous system, unspecified	NULL		3. only partial map possible
+17	Q20.3             	Discordant ventriculoarterial connection	LA85.1	Transposition of the great arteries	NULL		3. only partial map possible
+17	Q21.0             	Ventricular septal defect	LA88.4Z	Ventricular septal defect, unspecified	NULL	NULL	1. full map by precoordination
+17	Q21.1	Atrial septal defect	LA8E.Y	Other specified congenital anomaly of atrial septum	NULL		3. only partial map possible
+17	Q21.2	Atrioventricular septal defect	LA87.20	Atrioventricular septal defect	NULL	NULL	1. full map by precoordination
+17	Q21.3             	Tetralogy of Fallot	LA88.2Z	Tetralogy of Fallot, unspecified	NULL	NULL	1. full map by precoordination
+17	Q22.1	Congenital pulmonary valve stenosis	LA8A.00	Congenital pulmonary valvar stenosis	NULL	NULL	1. full map by precoordination
+17	Q23.1	Congenital insufficiency of aortic valve	LA8A.21	Congenital aortic regurgitation	NULL	NULL	1. full map by precoordination
+17	Q23.3	Congenital mitral insufficiency	LA87.10	Congenital mitral regurgitation	NULL	NULL	1. full map by precoordination
+17	Q24.8             	Other specified congenital malformations of heart	LA8Y	Other specified structural developmental anomaly of heart or great vessels	NULL		3. only partial map possible
+17	Q24.9             	Congenital malformation of heart, unspecified	LA8Z	Structural developmental anomaly of heart or great vessels, unspecified	NULL	NULL	3. only partial map possible
+17	Q25.0	Patent ductus arteriosus	LA8B.4	Patent arterial duct	NULL	NULL	1. full map by precoordination
+17	Q25.1             	Coarctation of aorta	LA8B.21	Coarctation of aorta	NULL	NULL	1. full map by precoordination
+17	Q25.6	Stenosis of pulmonary artery	LA8B.1	Congenital anomaly of pulmonary arterial tree	NULL	NULL	3. only partial map possible
+17	Q31.5	Congenital laryngomalacia	LA71.0	Congenital laryngomalacia	NULL	NULL	1. full map by precoordination
+17	Q34.9	Congenital malformation of respiratory system, unspecified	LA7Z	Structural developmental anomalies of the respiratory system, unspecified	NULL	NULL	1. full map by precoordination
+17	Q38.1	Ankyloglossia	LA31.2	Ankyloglossia	NULL	NULL	1. full map by precoordination
+17	Q53.10            	Unspecified undescended testicle, unilateral	LB52.1	Undescended testicle, unilateral	NULL		1. full map by precoordination
+17	Q53.9	Undescended testicle, unspecified	LB52.Z	Cryptorchidism, unspecified	NULL	NULL	1. full map by precoordination
+17	Q54.9	Hypospadias, unspecified	LB53.Z	Hypospadias, unspecified	NULL	NULL	1. full map by precoordination
+17	Q55.22	Retractile testis	MF42	Retractile testis migrans	NULL	NULL	1. full map by precoordination
+17	Q55.69	Other congenital malformation of penis	LB5Y	Other specified structural developmental anomalies of the male genital system	NULL	NULL	3. only partial map possible
+17	Q62.0             	Congenital hydronephrosis	LB31.0	Congenital hydronephrosis	NULL	NULL	1. full map by precoordination
+17	Q65.89            	Other specified congenital deformities of hip	LB74.Y	Other specified structural developmental anomalies of pelvic girdle	NULL	NULL	3. only partial map possible
+17	Q66.02	Congenital talipes equinovarus, left foot	LB98.00	Talipes equinovarus	LB98.00&XK8G	Talipes equinovarus & Left	2. full map by postcoordination
+17	Q66.229	Congenital metatarsus adductus, unspecified foot	LB98.02	Metatarsus varus	NULL	NULL	3. only partial map possible
+17	Q66.6             	Other congenital valgus deformities of feet	LB98.2Y	Other specified congenital valgus deformities of feet	NULL	NULL	3. only partial map possible
+17	Q66.89            	Other specified congenital deformities of feet	LB98.Y	Other specified congenital deformities of feet	NULL	NULL	3. only partial map possible
+17	Q67.3             	Plagiocephaly	LB70.00	Plagiocephaly	NULL	NULL	1. full map by precoordination
+17	Q67.4             	Other congenital deformities of skull, face and jaw	LD0Y	Other specified structural developmental anomalies primarily affecting one body system	NULL		3. only partial map possible
+17	Q67.5	Congenital deformity of spine	LA07.Z	Structural developmental anomalies of the neurenteric canal, spinal cord or vertebral column, unspecified	LA07.Z&XA5J55	Structural developmental anomalies of the neurenteric canal, spinal cord or vertebral column, unspecified & Vertebral column	2. full map by postcoordination
+17	Q67.6             	Pectus excavatum	LB73.13	Structural developmental anomalies of sternum	NULL	NULL	3. only partial map possible
+17	Q67.7	Pectus carinatum	LB73.13	Structural developmental anomalies of sternum	NULL	NULL	3. only partial map possible
+17	Q68.0	Congenital deformity of sternocleidomastoid muscle	LA6Y	Other specified structural developmental anomalies of the neck	NULL	NULL	3. only partial map possible
+17	Q74.2             	Other congenital malformations of lower limb(s), including pelvic girdle	LD9Y	Other specified developmental anomalies	NULL	NULL	3. only partial map possible
+17	Q75.0	Craniosynostosis	LB70.0Z	Craniosynostosis, unspecified	NULL	NULL	1. full map by precoordination
+17	Q75.3	Macrocephaly	LB70.3	Macrocephaly	NULL	NULL	1. full map by precoordination
+17	Q75.9	Congenital malformation of skull and face bones, unspecified	LD0Y	Other specified structural developmental anomalies primarily affecting one body system	NULL	NULL	3. only partial map possible
+17	Q76.49            	Other congenital malformations of spine, not associated with scoliosis	LA07.Y	Other specified structural developmental anomalies of the neurenteric canal, spinal cord or vertebral column	LA07.Y&XA0V83	Other specified structural developmental anomalies of the neurenteric canal, spinal cord or vertebral column& Spine	3. only partial map possible
+17	Q78.0             	Osteogenesis imperfecta	LD24.K0	Osteogenesis imperfecta	NULL	NULL	1. full map by precoordination
+17	Q82.5             	Congenital non-neoplastic nevus	LC7Y	Other specified structural developmental anomalies of the skin	NULL	NULL	3. only partial map possible
+17	Q82.6	Congenital sacral dimple	LC7Y	Other specified structural developmental anomalies of the skin	NULL	NULL	3. only partial map possible
+17	Q82.8             	Other specified congenital malformations of skin	LC7Y	Other specified structural developmental anomalies of the skin	NULL	NULL	3. only partial map possible
+17	Q87.89            	Other specified congenital malformation syndromes, not elsewhere classified	LD2F.Y	Other specified syndromes with multiple structural anomalies, without predominant body system involvement	NULL	NULL	3. only partial map possible
+17	Q89.7	Multiple congenital malformations, not elsewhere classified	LD2Z	Multiple developmental anomalies or syndromes, unspecified	NULL	NULL	1. full map by precoordination
+17	Q89.8             	Other specified congenital malformations	LD9Y	Other specified developmental anomalies	NULL	NULL	3. only partial map possible
+17	Q89.9	Congenital malformation, unspecified	LD9Z	Developmental anomalies, unspecified	NULL	NULL	1. full map by precoordination
+17	Q90.9	Down syndrome, unspecified	LD40.0	Complete trisomy 21	NULL	NULL	1. full map by precoordination
+17	Q99.8             	Other specified chromosome abnormalities	LD7Y	Other specified chromosomal anomalies, excluding gene mutations	NULL	NULL	3. only partial map possible
+17	Q99.9             	Chromosomal abnormality, unspecified	LD7Z	Chromosomal anomalies, excluding gene mutations, unspecified	NULL	NULL	3. only partial map possible
+18	R00.0	Tachycardia, unspecified	MC81.0	Tachycardia, unspecified	NULL	NULL	1. full map by precoordination
+18	R00.1	Bradycardia, unspecified	MC81.1	Bradycardia, unspecified	NULL	NULL	1. full map by precoordination
+18	R00.2	Palpitations	MC81.2	Palpitations	NULL	NULL	1. full map by precoordination
+18	R05	Cough	MD12	Cough	NULL	NULL	1. full map by precoordination
+18	R06.00	Dyspnea, unspecified	MD11.5	Dyspnoea	NULL	NULL	1. full map by precoordination
+18	R06.02	Shortness of breath	MD11.5	Dyspnoea	NULL		1. full map by precoordination
+18	R06.09	Other forms of dyspnea	MD11.5	Dyspnoea	NULL		3. only partial map possible
+18	R07.89	Other chest pain	MD30.1	Other chest pain	NULL		3. only partial map possible
+18	R07.9	Chest pain, unspecified	MD30.Z	Chest pain, unspecified	NULL	NULL	1. full map by precoordination
+18	R09.02	Hypoxemia	MD11.1	Asphyxia	NULL	NULL	3. only partial map possible
+18	R10.13	Epigastric pain	MD81.10	Pain localised to upper abdomen	NULL	NULL	3. only partial map possible
+18	R10.9	Unspecified abdominal pain	MD81.4	Other and unspecified abdominal pain	NULL	NULL	3. only partial map possible
+18	R11.0	Nausea	MD90.0	Nausea	NULL	NULL	1. full map by precoordination
+18	R11.2	Nausea with vomiting, unspecified	MD90.0	Nausea	NULL	NULL	3. only partial map possible
+18	R13.10	Dysphagia, unspecified	MD93	Dysphagia	NULL	NULL	1. full map by precoordination
+18	R18.8	Other ascites	ME04.Y	Other specified ascites	NULL	NULL	3. only partial map possible
+18	R19.7	Diarrhea, unspecified	ME05.1	Diarrhoea	NULL	NULL	1. full map by precoordination
+18	R26.2	Difficulty in walking, not elsewhere classified	MB44.2	Difficulty in walking	NULL	NULL	1. full map by precoordination
+18	R26.89	Other abnormalities of gait and mobility	MB44.Y	Other specified abnormalities of gait and mobility	NULL	NULL	3. only partial map possible
+18	R26.9	Unspecified abnormalities of gait and mobility	MB44.Z	Abnormalities of gait and mobility, unspecified	NULL	NULL	1. full map by precoordination
+18	R29.6	Repeated falls	MB47.C	Tendency to fall	NULL	NULL	3. only partial map possible
+18	R30.0	Dysuria	MF50.7	Dysuria	NULL	NULL	1. full map by precoordination
+18	R31.9	Hematuria, unspecified	MF50.4Z	Haematuria, unspecified	NULL	NULL	1. full map by precoordination
+18	R32	Unspecified urinary incontinence	MF50.2Z	Urinary incontinence, unspecified	NULL	NULL	1. full map by precoordination
+18	R33.8	Other retention of urine	MF50.3	Retention of urine	NULL		3. only partial map possible
+18	R33.9	Retention of urine, unspecified	MF50.3	Retention of urine	NULL	NULL	1. full map by precoordination
+18	R35.0	Frequency of micturition	MF50.0	Frequent micturition	NULL	NULL	1. full map by precoordination
+18	R41.0	Disorientation, unspecified	MB21.4	Disorientation	NULL	NULL	1. full map by precoordination
+18	R41.3	Other amnesia	MB21.1Z	Amnesia, unspecified	NULL	NULL	3. only partial map possible
+18	R41.82	Altered mental status, unspecified	MB21.Y	Other specified symptoms and signs involving cognition	NULL	NULL	3. only partial map possible
+18	R42	Dizziness and giddiness	MB48.Z	Dizziness and giddiness, unspecified	NULL	NULL	1. full map by precoordination
+18	R45.851	Suicidal ideations	MB26.A	Suicidal ideation	NULL	NULL	1. full map by precoordination
+18	R47.01	Aphasia	MA80.0	Aphasia	NULL	NULL	1. full map by precoordination
+18	R50.9	Fever, unspecified	MG26	Fever of other or unknown origin	NULL	NULL	1. full map by precoordination
+18	R51	Headache	MB6Y	Other specified symptoms or signs involving the nervous system	NULL	NULL	3. only partial map possible
+18	R53.1	Weakness	MG22	Fatigue	NULL	NULL	3. only partial map possible
+18	R53.81	Other malaise	MG25	Feeling ill	NULL	NULL	3. only partial map possible
+18	R53.83	Other fatigue	MG22	Fatigue	NULL	NULL	3. only partial map possible
+18	R55	Syncope and collapse	MG45.Z	Syncope and collapse, unspecified	NULL	NULL	1. full map by precoordination
+18	R56.9	Unspecified convulsions	8A68.Z	Type of seizure, unspecified	NULL	NULL	1. full map by precoordination
+18	R60.0	Localized edema	MG29.0Y	Other specified localised oedema	NULL	NULL	3. only partial map possible
+18	R60.9	Edema, unspecified	MG29.Z	Oedema, unspecified	NULL	NULL	1. full map by precoordination
+18	R62.7	Adult failure to thrive	MG20.Z	Cachexia, unspecified	NULL	NULL	3. only partial map possible
+18	R63.4	Abnormal weight loss	MG43.5	Excessive weight loss	NULL	NULL	1. full map by precoordination
+18	R64	Cachexia	MG20.Z	Cachexia, unspecified	NULL	NULL	1. full map by precoordination
+18	R65.20	Severe sepsis without septic shock	1G40	Sepsis without septic shock	NULL		3. only partial map possible
+18	R65.21	Severe sepsis with septic shock	1G41	Sepsis with septic shock	NULL		3. only partial map possible
+18	R73.01	Impaired fasting glucose	5A40.0	Impaired fasting glucose	NULL	NULL	1. full map by precoordination
+18	R73.09	Other abnormal glucose	5A40.Z	Intermediate hyperglycaemia, unspecified	NULL	NULL	3. only partial map possible
+18	R73.9	Hyperglycemia, unspecified	MA18.0	Elevated blood glucose level	NULL	NULL	1. full map by precoordination
+18	R79.89	Other specified abnormal findings of blood chemistry	MA18.Y	Other specified abnormal findings of blood chemistry	NULL	NULL	3. only partial map possible
+18	R91.1	Solitary pulmonary nodule	MD41	Clinical findings on diagnostic imaging of lung	NULL	NULL	3. only partial map possible
+18	R91.8	Other nonspecific abnormal finding of lung field	MD4Y	Other specified clinical findings in the respiratory system	NULL	NULL	3. only partial map possible
+18	R92.8	Other abnormal and inconclusive findings on diagnostic imaging of breast	MG00	Clinical findings on diagnostic imaging of breast	NULL	NULL	3. only partial map possible
+18	R94.31	Abnormal electrocardiogram [ECG] [EKG]	MC91	Results of function studies of the circulatory system	NULL	NULL	3. only partial map possible
+18	R97.20	Elevated prostate specific antigen [PSA]	MA14.1B	Prostate specific antigen positive	NULL	NULL	1. full map by precoordination
+19	S00.01XA	Abrasion of scalp, initial encounter	NA00.00	Abrasion of scalp	NULL	NULL	3. only partial map possible
+19	S00.03XA	Contusion of scalp, initial encounter	NA00.01	Contusion of scalp	NULL	NULL	3. only partial map possible
+19	S00.11XA	Contusion of right eyelid and periocular area, initial encounter	NA00.11	Contusion of eyelid or periocular area	NA00.11&XK9K	Contusion of eyelid or periocular area & right	3. only partial map possible
+19	S00.12XA	Contusion of left eyelid and periocular area, initial encounter	NA00.11	Contusion of eyelid or periocular area	NA00.11&XK8G	Contusion of eyelid or periocular area & Left	3. only partial map possible
+19	S00.31XA	Abrasion of nose, initial encounter	NA00.3	Superficial injury of nose	NA00.3&XJ652	Superficial injury of nose & abrasion	3. only partial map possible
+19	S00.33XA	Contusion of nose, initial encounter	NA00.3	Superficial injury of nose	NA00.3&XJ9NV	Superficial injury of nose & Contusion	3. only partial map possible
+19	S00.81XA	Abrasion of other part of head, initial encounter	NA00.6	Abrasion of other or unspecified sites of head	NULL	NULL	3. only partial map possible
+19	S00.83XA	Contusion of other part of head, initial encounter	NA00.7	Contusion of other or unspecified sites of head	NULL	NULL	3. only partial map possible
+19	S00.91XA	Abrasion of unspecified part of head, initial encounter	NA00.6	Abrasion of other or unspecified sites of head	NULL	NULL	3. only partial map possible
+19	S00.93XA	Contusion of unspecified part of head, initial encounter	NA00.7	Contusion of other or unspecified sites of head	NULL	NULL	3. only partial map possible
+19	S01.01XA	Laceration without foreign body of scalp, initial encounter	NA01.2	Laceration without foreign body of head	NA01.2&XA6CW5	Laceration without foreign body of head & Scalp	3. only partial map possible
+19	S01.01XD	Laceration without foreign body of scalp, subsequent encounter	NA01.2	Laceration without foreign body of head	NA01.2&XA6CW5	Laceration without foreign body of head	3. only partial map possible
+19	S01.111A	Laceration without foreign body of right eyelid and periocular area, initial encounter	NA01.2	Laceration without foreign body of head	NA01.2&XA17K1	Laceration without foreign body of head & Eyelid and ocular surface	3. only partial map possible
+19	S01.112A	Laceration without foreign body of left eyelid and periocular area, initial encounter	NA01.2	Laceration without foreign body of head	NA01.2&XA17K1	Laceration without foreign body of head & Eyelid and ocular surface	3. only partial map possible
+19	S01.21XA	Laceration without foreign body of nose, initial encounter	NA01.2	Laceration without foreign body of head	NA01.2&XA3H13	Laceration without foreign body of head & Nose 	3. only partial map possible
+19	S01.511A	Laceration without foreign body of lip, initial encounter	NA01.2	Laceration without foreign body of head	NA01.2&XA8JD4	Laceration without foreign body of head & Lip 	3. only partial map possible
+19	S01.512A	Laceration without foreign body of oral cavity, initial encounter	NA01.2	Laceration without foreign body of head	NA01.2&XA1WN1	Laceration without foreign body of head & Oral cavity 	3. only partial map possible
+19	S01.81XA	Laceration without foreign body of other part of head, initial encounter	NA01.2	Laceration without foreign body of head	NULL	NULL	3. only partial map possible
+19	S01.81XD	Laceration without foreign body of other part of head, subsequent encounter	NA01.2	Laceration without foreign body of head	NULL	NULL	3. only partial map possible
+19	S01.91XA	Laceration without foreign body of unspecified part of head, initial encounter	NA01.2	Laceration without foreign body of head	NULL	NULL	3. only partial map possible
+19	S02.2XXA	Fracture of nasal bones, initial encounter for closed fracture	NA02.3	Fracture of nasal bones	NA02.3&XJ44E	Fracture of nasal bones & Closed fracture	3. only partial map possible
+19	S02.5XXA	Fracture of tooth (traumatic), initial encounter for closed fracture	NA02.6	Fracture of tooth	NA02.6&XJ44E	Fracture of tooth & Closed fracture	3. only partial map possible
+19	S05.01XA	Injury of conjunctiva and corneal abrasion without foreign body, right eye, initial encounter	NA06.4	Injury of conjunctiva or corneal abrasion without mention of foreign body	NA06.4&XK9K	Injury of conjunctiva or corneal abrasion without mention of foreign body & Right	3. only partial map possible
+19	S05.02XA	Injury of conjunctiva and corneal abrasion without foreign body, left eye, initial encounter	NA06.4	Injury of conjunctiva or corneal abrasion without mention of foreign body	NA06.4&XK8G	Injury of conjunctiva or corneal abrasion without mention of foreign body & Left	3. only partial map possible
+19	S05.11XA	Contusion of eyeball and orbital tissues, right eye, initial encounter	NA06.9	Contusion of eyeball or orbital tissues	NA06.9&XK9K	Contusion of eyeball or orbital tissues & Right	3. only partial map possible
+19	S05.12XA	Contusion of eyeball and orbital tissues, left eye, initial encounter	NA06.9	Contusion of eyeball or orbital tissues	NA06.9&XK8G	Contusion of eyeball or orbital tissues & Left	3. only partial map possible
+19	S06.0X0A	Concussion without loss of consciousness, initial encounter	NA07.0Y	Other specified concussion	NULL	NULL	3. only partial map possible
+19	S06.0X1A	Concussion with loss of consciousness of 30 minutes or less, initial encounter	NA07.02	Loss of consciousness, short duration of less than 30 minutes	NULL	NULL	3. only partial map possible
+19	S06.0X9A	Concussion with loss of consciousness of unspecified duration, initial encounter	NA07.09	Loss of consciousness, duration unspecified or unknown due to lack of information	NULL		3. only partial map possible
+19	S06.5X0A	Traumatic subdural hemorrhage without loss of consciousness, initial encounter	NA07.6	Traumatic subdural haemorrhage	NULL	NULL	3. only partial map possible
+19	S06.5X0D	Traumatic subdural hemorrhage without loss of consciousness, subsequent encounter	NA07.6	Traumatic subdural haemorrhage	NULL	NULL	3. only partial map possible
+19	S06.5X1A	Traumatic subdural hemorrhage with loss of consciousness of 30 minutes or less, initial encounter	NA07.6	Traumatic subdural haemorrhage	NA07.6/NA07.03	Traumatic subdural haemorrhage / Loss of consciousness, short duration of 30 minutes to less than one hour	3. only partial map possible
+19	S06.5X9A	Traumatic subdural hemorrhage with loss of consciousness of unspecified duration, initial encounter	NA07.6	Traumatic subdural haemorrhage	NA07.6/NA07.09	Traumatic subdural haemorrhage / Loss of consciousness, duration unspecified or unknown due to lack of information	3. only partial map possible
+19	S06.6X0A	Traumatic subarachnoid hemorrhage without loss of consciousness, initial encounter	NA07.7	Traumatic subarachnoid haemorrhage	NULL	NULL	3. only partial map possible
+19	S06.6X1A	Traumatic subarachnoid hemorrhage with loss of consciousness of 30 minutes or less, initial encounter	NA07.7	Traumatic subarachnoid haemorrhage	NA07.7/NA07.03	Traumatic subarachnoid haemorrhage & Loss of consciousness, short duration of 30 minutes to less than one hour	3. only partial map possible
+19	S06.6X9A	Traumatic subarachnoid hemorrhage with loss of consciousness of unspecified duration, initial encounter	NA07.7	Traumatic subarachnoid haemorrhage	NA07.7/NA07.09	Traumatic subarachnoid haemorrhage & Loss of consciousness, duration unspecified or unknown due to lack of information	3. only partial map possible
+19	S06.9X9A	Unspecified intracranial injury with loss of consciousness of unspecified duration, initial encounter	NA07.Z	Intracranial injury, unspecified	NA07.Z/NA07.09	Intracranial injury, unspecified & Loss of consciousness, duration unspecified or unknown due to lack of information	3. only partial map possible
+19	S09.8XXA	Other specified injuries of head, initial encounter	NA0A.Y	Other specified injuries of head	NULL	NULL	3. only partial map possible
+19	S09.90XA	Unspecified injury of head, initial encounter	NA0Z	Injuries to the head, unspecified	NULL	NULL	3. only partial map possible
+19	S09.90XD	Unspecified injury of head, subsequent encounter	NA0Z	Injuries to the head, unspecified	NULL	NULL	3. only partial map possible
+19	S09.93XA	Unspecified injury of face, initial encounter	NA0Z	Injuries to the head, unspecified	NULL	NULL	3. only partial map possible
+19	S13.4XXA	Sprain of ligaments of cervical spine, initial encounter	NA23.4Z	Strain or sprain of cervical spine, unspecified	NA23.4Z&XA1LE7	Strain or sprain of cervical spine, unspecified & Ligaments of the head and neck	3. only partial map possible
+19	S13.9XXA	Sprain of joints and ligaments of unspecified parts of neck, initial encounter	NA61.0	Strain or sprain of muscle, fascia or tendon at neck level	NA61.0&XA1LE7	Strain or sprain of muscle, fascia or tendon at neck level & Ligaments of the head and neck	3. only partial map possible
+19	S16.1XXA	Strain of muscle, fascia and tendon at neck level, initial encounter	NA61.0	Strain or sprain of muscle, fascia or tendon at neck level	NULL	NULL	3. only partial map possible
+19	S16.1XXD	Strain of muscle, fascia and tendon at neck level, subsequent encounter	NA61.0	Strain or sprain of muscle, fascia or tendon at neck level	NULL	NULL	3. only partial map possible
+19	S19.9XXA	Unspecified injury of neck, initial encounter	NA6Z	Injuries to the neck, unspecified	NULL	NULL	3. only partial map possible
+19	S20.20XA	Contusion of thorax, unspecified, initial encounter	NA80.6	Contusion of thorax	NULL	NULL	3. only partial map possible
+19	S20.211A	Contusion of right front wall of thorax, initial encounter	NA80.6	Contusion of thorax	NA80.6&XA00R3	Contusion of thorax&Anterior thoracic region	3. only partial map possible
+19	S20.212A	Contusion of left front wall of thorax, initial encounter	NA80.6	Contusion of thorax	NA80.6&XA00R3	Contusion of thorax&Anterior thoracic region	3. only partial map possible
+19	S20.219A	Contusion of unspecified front wall of thorax, initial encounter	NA80.6	Contusion of thorax	NA80.6&XA00R3	Contusion of thorax & Anterior thoracic region	3. only partial map possible
+19	S20.229A	Contusion of unspecified back wall of thorax, initial encounter	NA80.6	Contusion of thorax	NA80.6&XA10L7	Contusion of thorax & Upper back	3. only partial map possible
+19	S22.000A	Wedge compression fracture of unspecified thoracic vertebra, initial encounter for closed fracture	NA82.0	Fracture of thoracic vertebra	NA82.0&XJ6NA&XJ44E	Fracture of thoracic vertebra&Wedge& Closed fracture	3. only partial map possible
+19	S22.080A	Wedge compression fracture of T11-T12 vertebra, initial encounter for closed fracture	NA82.0	Fracture of thoracic vertebra	NA82.0&XJ6NA&XJ44E&XA7T69&XA69W5	Fracture of thoracic vertebra&Wedge& Closed fracture&Eleventh&Twelfth thoracic vertebra	3. only partial map possible
+19	S22.089A	Unspecified fracture of T11-T12 vertebra, initial encounter for closed fracture	NA82.0	Fracture of thoracic vertebra	NA82.0&XJ44E&XA7T69&XA69W5	Fracture of thoracic vertebra & Closed fracture & Eleventh thoracic vertebra & Twelfth thoracic vertebra	3. only partial map possible
+19	S22.31XA	Fracture of one rib, right side, initial encounter for closed fracture	NA82.3Y	Other specified fracture of rib	NA82.3Y&XJ44E&XK9K	Other specified fracture of rib& Closed& Right	3. only partial map possible
+19	S22.32XA	Fracture of one rib, left side, initial encounter for closed fracture	NA82.3Y	Other specified fracture of rib	NA82.3Y&XJ44E&XK8G	Other specified fracture of rib	3. only partial map possible
+19	S22.39XA	Fracture of one rib, unspecified side, initial encounter for closed fracture	NA82.3Y	Other specified fracture of rib	NA82.3Y&XJ44E	Other specified fracture of rib& Closed	3. only partial map possible
+19	S22.41XA	Multiple fractures of ribs, right side, initial encounter for closed fracture	NA82.4	Multiple fractures of ribs	NA82.4&XK9K&XJ44E	Multiple fractures of ribs & Right & Closed fracture	3. only partial map possible
+19	S22.41XD	Multiple fractures of ribs, right side, subsequent encounter for fracture with routine healing	NA82.4	Multiple fractures of ribs	NA82.4&XK9K	Multiple fractures of ribs & Right	3. only partial map possible
+19	S22.42XA	Multiple fractures of ribs, left side, initial encounter for closed fracture	NA82.4	Multiple fractures of ribs	NA82.4&XK8G&XJ44E	Multiple fractures of ribs & Left & Closed fracture	3. only partial map possible
+19	S22.42XD	Multiple fractures of ribs, left side, subsequent encounter for fracture with routine healing	NA82.4	Multiple fractures of ribs	NA82.4&XK8G	Multiple fractures of ribs & Left	3. only partial map possible
+19	S22.43XA	Multiple fractures of ribs, bilateral, initial encounter for closed fracture	NA82.4	Multiple fractures of ribs	NA82.4&XK9J&XJ44E	Multiple fractures of ribs & Bilateral & Closed fracture	3. only partial map possible
+19	S27.0XXA	Traumatic pneumothorax, initial encounter	NB32.0	Traumatic pneumothorax	NULL	NULL	3. only partial map possible
+19	S27.1XXA	Traumatic hemothorax, initial encounter	NB32.1	Traumatic haemothorax	NULL	NULL	3. only partial map possible
+19	S27.2XXA	Traumatic hemopneumothorax, initial encounter	NB32.2	Traumatic haemopneumothorax	NULL	NULL	3. only partial map possible
+19	S29.011A	Strain of muscle and tendon of front wall of thorax, initial encounter	NB34.0	Strain or sprain of muscle, fascia or tendon at thorax level	NB34.0&XA00R3	Strain or sprain of muscle, fascia or tendon at thorax level & Anterior thoracic region	3. only partial map possible
+19	S29.012A	Strain of muscle and tendon of back wall of thorax, initial encounter	NB34.0	Strain or sprain of muscle, fascia or tendon at thorax level	NB34.0&XA10L7	Strain or sprain of muscle, fascia or tendon at thorax level & Upper back	3. only partial map possible
+19	S29.9XXA	Unspecified injury of thorax, initial encounter	NB3Z	Injuries to the thorax, unspecified	NULL	NULL	3. only partial map possible
+19	S30.0XXA	Contusion of lower back and pelvis, initial encounter	NB50.1	Contusion of lower back or pelvis	NULL	NULL	3. only partial map possible
+19	S30.1XXA	Contusion of abdominal wall, initial encounter	NB50.3	Contusion of abdominal wall	NULL	NULL	3. only partial map possible
+19	S30.860A	Insect bite (nonvenomous) of lower back and pelvis, initial encounter	ND51.Y	Other specified injuries of spine or trunk, level unspecified	ND51.Y&XJ69A&XA9ET2&XA29C1	Other specified injuries of spine or trunk, level unspecified & Insect bite, nonvenomous & Lower back & Pelvic wall	3. only partial map possible
+19	S30.861A	Insect bite (nonvenomous) of abdominal wall, initial encounter	ND51.Y	Other specified injuries of spine or trunk, level unspecified	ND51.Y&XJ69A&XA3KX0	Other specified injuries of spine or trunk, level unspecified & Insect bite, nonvenomous & Abdominal wall	3. only partial map possible
+19	S31.109A	Unspecified open wound of abdominal wall, unspecified quadrant without penetration into peritoneal cavity, initial encounter	NB51.Z	Open wound of abdomen, lower back or pelvis, unspecified	NB51.Z&XA3KX0	Open wound of abdomen, lower back or pelvis, unspecified & Abdominal wall	3. only partial map possible
+19	S32.000A	Wedge compression fracture of unspecified lumbar vertebra, initial encounter for closed fracture	NB52.0	Fracture of lumbar vertebra	NB52.0&XJ6NA&XJ44E	Fracture of lumbar vertebra& Wedge fracture& Closed fracture	3. only partial map possible
+19	S32.009A	Unspecified fracture of unspecified lumbar vertebra, initial encounter for closed fracture	NB52.0	Fracture of lumbar vertebra	NB52.0&XJ44E	Fracture of lumbar vertebra & Closed fracture	3. only partial map possible
+19	S32.010A	Wedge compression fracture of first lumbar vertebra, initial encounter for closed fracture	NB52.0	Fracture of lumbar vertebra	NB52.0&XJ6NA&XA3291&XJ44E	Fracture of lumbar vertebra& Wedge fracture& First lumbar vertebra& Closed fracture	3. only partial map possible
+19	S32.019A	Unspecified fracture of first lumbar vertebra, initial encounter for closed fracture	NB52.0	Fracture of lumbar vertebra	NB52.0&XJ44E&XA3291	Fracture of lumbar vertebra & Closed fracture & First lumbar vertebra	3. only partial map possible
+19	S32.020A	Wedge compression fracture of second lumbar vertebra, initial encounter for closed fracture	NB52.0	Fracture of lumbar vertebra	NB52.0&XJ6NA&XA2GH9&XJ44E	Fracture of lumbar vertebra& Wedge fracture& Second lumbar vertebra& Closed fracture	3. only partial map possible
+19	S32.029A	Unspecified fracture of second lumbar vertebra, initial encounter for closed fracture	NB52.0	Fracture of lumbar vertebra	NB52.0&XJ44E&XA2GH9	Fracture of lumbar vertebra & Closed fracture & Second lumbar vertebra	3. only partial map possible
+19	S32.039A	Unspecified fracture of third lumbar vertebra, initial encounter for closed fracture	NB52.0	Fracture of lumbar vertebra	NB52.0&XJ44E&XA3N97	Fracture of lumbar vertebra & Closed fracture & Third lumbar vertebra	3. only partial map possible
+19	S32.10XA	Unspecified fracture of sacrum, initial encounter for closed fracture	NB52.10	Fracture of sacrum without disruption of pelvic ring	NB52.10&XJ44E	Fracture of sacrum without disruption of pelvic ring & Closed fracture	3. only partial map possible
+19	S32.511A	Fracture of superior rim of right pubis, initial encounter for closed fracture	NB52.14	Fracture of pubis without disruption of pelvic ring	NB52.14&XJ44E&XK9K	Fracture of pubis without disruption of pelvic ring & Closed fracture & Right	3. only partial map possible
+19	S32.512A	Fracture of superior rim of left pubis, initial encounter for closed fracture	NB52.14	Fracture of pubis without disruption of pelvic ring	NB52.14&XJ44E&XK8G	Fracture of pubis without disruption of pelvic ring & Closed fracture & Left	3. only partial map possible
+19	S32.591A	Other specified fracture of right pubis, initial encounter for closed fracture	NB52.14	Fracture of pubis without disruption of pelvic ring	NB52.14&XJ44E&XK9K	Fracture of pubis without disruption of pelvic ring & Closed fracture & Right	3. only partial map possible
+19	S32.592A	Other specified fracture of left pubis, initial encounter for closed fracture	NB52.14	Fracture of pubis without disruption of pelvic ring	NB52.14&XJ44E&XK8G	Fracture of pubis without disruption of pelvic ring & Closed fracture & Left	3. only partial map possible
+19	S32.9XXA	Fracture of unspecified parts of lumbosacral spine and pelvis, initial encounter for closed fracture	NB52.Y	Other specified fracture of lumbar spine or pelvis	NB52.0&XJ44E&XA14W3	Other specified fracture of lumbar spine or pelvis & Closed fracture & Lumbar vertebra & Sacrum	3. only partial map possible
+19	S33.5XXA	Sprain of ligaments of lumbar spine, initial encounter	NB53.5	Strain or sprain of lumbar spine	NULL	NULL	3. only partial map possible
+19	S39.011A	Strain of muscle, fascia and tendon of abdomen, initial encounter	NB94.0	Strain or sprain of muscle, fascia or tendon of abdomen	NULL	NULL	3. only partial map possible
+19	S39.012A	Strain of muscle, fascia and tendon of lower back, initial encounter	NB94.1	Strain or sprain of muscle, fascia or tendon of lower back	NULL	NULL	3. only partial map possible
+19	S39.012D	Strain of muscle, fascia and tendon of lower back, subsequent encounter	NB94.1	Strain or sprain of muscle, fascia or tendon of lower back	NULL	NULL	3. only partial map possible
+19	S39.92XA	Unspecified injury of lower back, initial encounter	NB9Z	Injuries to the abdomen, lower back, lumbar spine or pelvis, unspecified	NULL	NULL	3. only partial map possible
+19	S40.011A	Contusion of right shoulder, initial encounter	NC10.1	Contusion of shoulder or upper arm	NC10.1&XK9K&XA2ND5	Contusion of shoulder or upper arm & Right & Shoulder	3. only partial map possible
+19	S40.012A	Contusion of left shoulder, initial encounter	NC10.1	Contusion of shoulder or upper arm	NC10.1&XK8G&XA2ND5	Contusion of shoulder or upper arm & Left & Shoulder	3. only partial map possible
+19	S40.021A	Contusion of right upper arm, initial encounter	NC10.1	Contusion of shoulder or upper arm	NC10.1&XK9K&XA6809	Contusion of shoulder or upper arm & Right & Upper arm	3. only partial map possible
+19	S40.022A	Contusion of left upper arm, initial encounter	NC10.1	Contusion of shoulder or upper arm	NC10.1&XK8G&XA6809	Contusion of shoulder or upper arm & Left & Upper arm	3. only partial map possible
+19	S40.811A	Abrasion of right upper arm, initial encounter	NC10.0	Abrasion of shoulder or upper arm	NC10.0&XK9K&XA6809	Abrasion of shoulder or upper arm & Right & Upper arm	3. only partial map possible
+19	S40.812A	Abrasion of left upper arm, initial encounter	NC10.0	Abrasion of shoulder or upper arm	NC10.0&XK8G&XA6809	Abrasion of shoulder or upper arm & Left & Upper arm	3. only partial map possible
+19	S40.861A	Insect bite (nonvenomous) of right upper arm, initial encounter	NC10.Y	Other specified superficial injury of shoulder or upper arm	NC10.Y&XK9K&XA6809&XJ69A	Other specified superficial injury of shoulder or upper arm & Right & Upper arm & Insect bite, nonvenomous	3. only partial map possible
+19	S40.862A	Insect bite (nonvenomous) of left upper arm, initial encounter	NC10.Y	Other specified superficial injury of shoulder or upper arm	NC10.Y&XK8G&XA6809&XJ69A	Other specified superficial injury of shoulder or upper arm & Left & Upper arm & Insect bite, nonvenomous	3. only partial map possible
+19	S41.111A	Laceration without foreign body of right upper arm, initial encounter	NC11.0	Laceration without foreign body of shoulder or upper arm	NC11.0&XA6809&XK9K	Laceration without foreign body of shoulder or upper arm&Upper arm&Right	3. only partial map possible
+19	S41.112A	Laceration without foreign body of left upper arm, initial encounter	NC11.0	Laceration without foreign body of shoulder or upper arm	NC11.0&XA6809&XK8G	Laceration without foreign body of shoulder or upper arm&Upper arm&Left	3. only partial map possible
+19	S42.201A	Unspecified fracture of upper end of right humerus, initial encounter for closed fracture	NC12.2Z	Fracture of upper end of humerus, unspecified site	NC12.2Z&XJ44E&XK9K	Fracture of upper end of humerus, unspecified site & Closed fracture & Right	3. only partial map possible
+19	S42.201D	Unspecified fracture of upper end of right humerus, subsequent encounter for fracture with routine healing	NC12.2Z	Fracture of upper end of humerus, unspecified site	NC12.2Z&XJ44E&XK9K	Fracture of upper end of humerus, unspecified site & Right	3. only partial map possible
+19	S42.202A	Unspecified fracture of upper end of left humerus, initial encounter for closed fracture	NC12.2Z	Fracture of upper end of humerus, unspecified site	NC12.2Z&XK8G&XJ44E	Fracture of upper end of humerus, unspecified site & Closed fracture & Left	3. only partial map possible
+19	S42.202D	Unspecified fracture of upper end of left humerus, subsequent encounter for fracture with routine healing	NC12.2Z	Fracture of upper end of humerus, unspecified site	NC12.2Z&XJ44E&XK8G	Fracture of upper end of humerus, unspecified site & Left & closed	3. only partial map possible
+19	S42.211A	Unspecified displaced fracture of surgical neck of right humerus, initial encounter for closed fracture	NC12.21	Fracture of surgical neck of humerus	NC12.21&XK9K&XJ8PQ&XJ44E	Fracture of surgical neck of humerus & Right & Displaced fracture & Closed fracture	3. only partial map possible
+19	S42.212A	Unspecified displaced fracture of surgical neck of left humerus, initial encounter for closed fracture	NC12.21	Fracture of surgical neck of humerus	NC12.21&XK8G&XJ8PQ&XJ44E	Fracture of surgical neck of humerus & Left & Displaced fracture & Closed fracture	3. only partial map possible
+19	S42.291A	Other displaced fracture of upper end of right humerus, initial encounter for closed fracture	NC12.2Z	Fracture of upper end of humerus, unspecified site	NC12.2Z&XK9K&XJ8PQ&XJ44E	Fracture of upper end of humerus, unspecified site & Right & Displaced fracture & Closed fracture	3. only partial map possible
+19	S42.292A	Other displaced fracture of upper end of left humerus, initial encounter for closed fracture	NC12.2Z	Fracture of upper end of humerus, unspecified site	NC12.2Z&XK8G&XJ8PQ&XJ44E	Fracture of upper end of humerus, unspecified site & Left & Displaced fracture & Closed fracture	3. only partial map possible
+19	S42.302A	Unspecified fracture of shaft of humerus, left arm, initial encounter for closed fracture	NC12.3	Fracture of shaft of humerus	NC12.3&XK8G&XJ44E	Fracture of shaft of humerus & Left & Closed fracture	3. only partial map possible
+19	S43.004A	Unspecified dislocation of right shoulder joint, initial encounter	NC13.0	Dislocation of shoulder joint	NC13.0&XK9K	Dislocation of shoulder joint & Right	3. only partial map possible
+19	S43.401A	Unspecified sprain of right shoulder joint, initial encounter	NC13.5	Strain or sprain of shoulder joint	NC13.5&XK9K	Strain or sprain of shoulder joint&Right	3. only partial map possible
+19	S43.402A	Unspecified sprain of left shoulder joint, initial encounter	NC13.5	Strain or sprain of shoulder joint	NC13.5&XK8G	Strain or sprain of shoulder joint&Left	3. only partial map possible
+19	S43.431A	Superior glenoid labrum lesion of right shoulder, initial encounter	NC13.5	Strain or sprain of shoulder joint	NC13.5&XK9K	Strain or sprain of shoulder joint & Right	3. only partial map possible
+19	S46.011A	Strain of muscle(s) and tendon(s) of the rotator cuff of right shoulder, initial encounter	NC16.00	Strain or sprain of muscle or tendon of the rotator cuff of shoulder	NC16.00&XK9K	Strain or sprain of muscle or tendon of the rotator cuff of shoulder & Right	3. only partial map possible
+19	S46.012A	Strain of muscle(s) and tendon(s) of the rotator cuff of left shoulder, initial encounter	NC16.00	Strain or sprain of muscle or tendon of the rotator cuff of shoulder	NC16.00&XK8G	Strain or sprain of muscle or tendon of the rotator cuff of shoulder & Left	3. only partial map possible
+19	S46.111A	Strain of muscle, fascia and tendon of long head of biceps, right arm, initial encounter	NC16.10	Strain or sprain of muscle, fascia or tendon of long head of biceps	NC16.10&XK9K	Strain or sprain of muscle, fascia or tendon of long head of biceps & Right	3. only partial map possible
+19	S46.211A	Strain of muscle, fascia and tendon of other parts of biceps, right arm, initial encounter	NC16.20	Strain or sprain of muscle, fascia or tendon of other parts of biceps	NC16.20&XK9K	Strain or sprain of muscle, fascia or tendon of other parts of biceps & Right	3. only partial map possible
+19	S46.811A	Strain of other muscles, fascia and tendons at shoulder and upper arm level, right arm, initial encounter	NC16.Y	Injury of other specified muscle, fascia, tendon or bursa at shoulder or upper arm level	NC16.Y&XK9K	Injury of other specified muscle, fascia, tendon or bursa at shoulder or upper arm level & Right	3. only partial map possible
+19	S46.812A	Strain of other muscles, fascia and tendons at shoulder and upper arm level, left arm, initial encounter	NC16.Y	Injury of other specified muscle, fascia, tendon or bursa at shoulder or upper arm level	NC16.Y&XK8G	Injury of other specified muscle, fascia, tendon or bursa at shoulder or upper arm level & Left	3. only partial map possible
+19	S46.911A	Strain of unspecified muscle, fascia and tendon at shoulder and upper arm level, right arm, initial encounter	NC16.Z	Injury of unspecified muscle, fascia or tendon at shoulder or upper arm level	NC16.Z&XK9K	Injury of unspecified muscle, fascia or tendon at shoulder or upper arm level & Right	3. only partial map possible
+19	S46.912A	Strain of unspecified muscle, fascia and tendon at shoulder and upper arm level, left arm, initial encounter	NC16.Z	Injury of unspecified muscle, fascia or tendon at shoulder or upper arm level	NC16.Z&XK8G	Injury of unspecified muscle, fascia or tendon at shoulder or upper arm level & Left	3. only partial map possible
+19	S49.91XA	Unspecified injury of right shoulder and upper arm, initial encounter	NC1Z	Injuries to the shoulder or upper arm, unspecified	NULL	NULL	3. only partial map possible
+19	S49.92XA	Unspecified injury of left shoulder and upper arm, initial encounter	NC1Z	Injuries to the shoulder or upper arm, unspecified	NULL	NULL	3. only partial map possible
+19	S50.01XA	Contusion of right elbow, initial encounter	NC30.1	Contusion of elbow	NC30.1&XK9K	Contusion of elbow & Right	3. only partial map possible
+19	S50.02XA	Contusion of left elbow, initial encounter	NC30.1	Contusion of elbow	NC30.1&XK8G	Contusion of elbow & Left	3. only partial map possible
+19	S50.11XA	Contusion of right forearm, initial encounter	NC30.3	Contusion of other or unspecified parts of forearm	NC30.3&XK9K	Contusion of other or unspecified parts of forearm & Right	3. only partial map possible
+19	S50.12XA	Contusion of left forearm, initial encounter	NC30.3	Contusion of other or unspecified parts of forearm	NC30.3&XK8G	Contusion of other or unspecified parts of forearm & Left	3. only partial map possible
+19	S50.311A	Abrasion of right elbow, initial encounter	NC30.0	Abrasion of elbow	NC30.0&XK9K	Abrasion of elbow & Right	3. only partial map possible
+19	S50.312A	Abrasion of left elbow, initial encounter	NC30.0	Abrasion of elbow	NC30.0&XK8G	Abrasion of elbow & Left	3. only partial map possible
+19	S50.811A	Abrasion of right forearm, initial encounter	NC30.2	Abrasion of other or unspecified parts of forearm	NC30.2&XK9K	Abrasion of other or unspecified parts of forearm & Right	3. only partial map possible
+19	S50.812A	Abrasion of left forearm, initial encounter	NC30.2	Abrasion of other or unspecified parts of forearm	NC30.2&XK8G	Abrasion of other or unspecified parts of forearm & Left	3. only partial map possible
+19	S51.011A	Laceration without foreign body of right elbow, initial encounter	NC31.Y	Other specified open wound of forearm	NC31.Y&XK9K&XA9FF8/PL11.0	Other specified open wound of forearm & Right & Elbow / Cut, puncture or tear, as mode of injury or harm	3. only partial map possible
+19	S51.012A	Laceration without foreign body of left elbow, initial encounter	NC31.Y	Other specified open wound of forearm	NC31.Y&XK8G&XA9FF8/PL11.0	Other specified open wound of forearm & Left & Elbow / Cut, puncture or tear, as mode of injury or harm	3. only partial map possible
+19	S51.801A	Unspecified open wound of right forearm, initial encounter	NC31.Z	Open wound of forearm, unspecified	NC31.Z&XK9K&XA7WB0	Open wound of forearm, unspecified&Right&Forearm	3. only partial map possible
+19	S51.802A	Unspecified open wound of left forearm, initial encounter	NC31.Z	Open wound of forearm, unspecified	NC31.Z&XK8G&XA7WB0	Open wound of forearm, unspecified&Left&Forearm	3. only partial map possible
+19	S51.811A	Laceration without foreign body of right forearm, initial encounter	NC31.0	Laceration without foreign body of forearm	NC31.0&XK9K	Laceration without foreign body of forearm & Right	3. only partial map possible
+19	S51.812A	Laceration without foreign body of left forearm, initial encounter	NC31.0	Laceration without foreign body of forearm	NC31.0&XK8G	Laceration without foreign body of forearm & Left	3. only partial map possible
+19	S52.501A	Unspecified fracture of the lower end of right radius, initial encounter for closed fracture	NC32.5Z	Fracture of lower end of radius, unspecified	NC32.5Z&XK9K&XJ44E	Fracture of lower end of radius, unspecified & Right & Closed fracture	3. only partial map possible
+19	S52.501D	Unspecified fracture of the lower end of right radius, subsequent encounter for closed fracture with routine healing	NC32.5Z	Fracture of lower end of radius, unspecified	NC32.5Z&XK9K&XJ44E	Fracture of lower end of radius, unspecified & Right & Closed fracture	3. only partial map possible
+19	S52.502A	Unspecified fracture of the lower end of left radius, initial encounter for closed fracture	NC32.5Z	Fracture of lower end of radius, unspecified	NC32.5Z&XK8G&XJ44E	Fracture of lower end of radius, unspecified & Left & Closed fracture	3. only partial map possible
+19	S52.502D	Unspecified fracture of the lower end of left radius, subsequent encounter for closed fracture with routine healing	NC32.5Z	Fracture of lower end of radius, unspecified	NC32.5Z&XK8G&XJ44E	Fracture of lower end of radius, unspecified & Left & Closed fracture	3. only partial map possible
+19	S52.531A	Colles' fracture of right radius, initial encounter for closed fracture	NC32.50	Fracture of lower end of radius, dorsal tilt	NC32.50&XK9K&XJ44E	Fracture of lower end of radius, dorsal tilt & Right & Closed fracture	3. only partial map possible
+19	S52.532A	Colles' fracture of left radius, initial encounter for closed fracture	NC32.50	Fracture of lower end of radius, dorsal tilt	NC32.50&XK8G&XJ44E	Fracture of lower end of radius, dorsal tilt & Left & Closed fracture	3. only partial map possible
+19	S52.571A	Other intraarticular fracture of lower end of right radius, initial encounter for closed fracture	NC32.5Y	Other specified fracture of lower end of radius	NC32.5Y&XJ44E&XK9K	Other specified fracture of lower end of radius&Closed Fracture&Right	3. only partial map possible
+19	S52.572A	Other intraarticular fracture of lower end of left radius, initial encounter for closed fracture	NC32.5Y	Other specified fracture of lower end of radius	NC32.5Y&XJ44E&XK8G	Other specified fracture of lower end of radius&Closed Fracture&Left	3. only partial map possible
+19	S52.592A	Other fractures of lower end of left radius, initial encounter for closed fracture	NC32.5Y	Other specified fracture of lower end of radius	NC32.5Y&XK8G&XJ44E	Other specified fracture of lower end of radius & Right & Closed fracture	3. only partial map possible
+19	S60.211A	Contusion of right wrist, initial encounter	NC51.10	Contusion of other parts of wrist or hand	NC51.10&XK9K&XA2J63	Contusion of other parts of wrist or hand & Right & Wrist	3. only partial map possible
+19	S60.212A	Contusion of left wrist, initial encounter	NC51.10	Contusion of other parts of wrist or hand	NC51.10&XK8G&XA2J63	Contusion of other parts of wrist or hand & Left & Wrist	3. only partial map possible
+19	S60.221A	Contusion of right hand, initial encounter	NC51.10	Contusion of other parts of wrist or hand	NC51.10&XK9K	Contusion of other parts of wrist or hand & Right	3. only partial map possible
+19	S60.222A	Contusion of left hand, initial encounter	NC51.10	Contusion of other parts of wrist or hand	NC51.10&XK8G	Contusion of other parts of wrist or hand & Left	3. only partial map possible
+19	S60.511A	Abrasion of right hand, initial encounter	NC51.1Y	Other specified superficial injury of other parts of wrist or hand	NC51.1Y&XJ652	Other specified superficial injury of other parts of wrist or hand & Abrasion	3. only partial map possible
+19	S60.512A	Abrasion of left hand, initial encounter	NC51.1Y	Other specified superficial injury of other parts of wrist or hand	NC51.1Y&XJ652	Other specified superficial injury of other parts of wrist or hand & Abrasion	3. only partial map possible
+19	S61.011A	Laceration without foreign body of right thumb without damage to nail, initial encounter	NC52.00	Laceration without foreign body of finger or thumb	NC52.00&XA8DJ6&XK9K	Laceration without foreign body of finger or thumb&Thumb&Right	3. only partial map possible
+19	S61.012A	Laceration without foreign body of left thumb without damage to nail, initial encounter	NC52.00	Laceration without foreign body of finger or thumb	NC52.00&XA8DJ6&XK8G	Laceration without foreign body of finger or thumb&Thumb&Left	3. only partial map possible
+19	S61.210A	Laceration without foreign body of right index finger without damage to nail, initial encounter	NC52.00	Laceration without foreign body of finger or thumb	NC52.00&XA6NZ0&XK9K	Laceration without foreign body of finger or thumb&Index finger&Right	3. only partial map possible
+19	S61.211A	Laceration without foreign body of left index finger without damage to nail, initial encounter	NC52.00	Laceration without foreign body of finger or thumb	NC52.00&XA6NZ0&XK8G	Laceration without foreign body of finger or thumb&Index finger&Left	3. only partial map possible
+19	S61.212A	Laceration without foreign body of right middle finger without damage to nail, initial encounter	NC52.00	Laceration without foreign body of finger or thumb	NC52.00&XA0Y38&XK9K	Laceration without foreign body of finger or thumb&Middle finger&Right	3. only partial map possible
+19	S61.213A	Laceration without foreign body of left middle finger without damage to nail, initial encounter	NC52.00	Laceration without foreign body of finger or thumb	NC52.00&XA0Y38&XK8G	Laceration without foreign body of finger or thumb&Middle finger&Left	3. only partial map possible
+19	S61.214A	Laceration without foreign body of right ring finger without damage to nail, initial encounter	NC52.00	Laceration without foreign body of finger or thumb	NC52.00&XA06X8&XK9K	Laceration without foreign body of finger or thumb&Ring finger&Right	3. only partial map possible
+19	S61.215A	Laceration without foreign body of left ring finger without damage to nail, initial encounter	NC52.00	Laceration without foreign body of finger or thumb	NC52.00&XA06X8&XK8G	Laceration without foreign body of finger or thumb&Ring finger&Left	3. only partial map possible
+19	S61.216A	Laceration without foreign body of right little finger without damage to nail, initial encounter	NC52.00	Laceration without foreign body of finger or thumb	NC52.00&XA5EN3&XK9K	Laceration without foreign body of finger or thumb&Little finger&Right	3. only partial map possible
+19	S61.217A	Laceration without foreign body of left little finger without damage to nail, initial encounter	NC52.00	Laceration without foreign body of finger or thumb	NC52.00&XA5EN3&XK8G	Laceration without foreign body of finger or thumb&Little finger&Left	3. only partial map possible
+19	S61.411A	Laceration without foreign body of right hand, initial encounter	NC52.10	Laceration without foreign body of other parts of wrist or hand	NC52.10&XK9K	Laceration without foreign body of other parts of wrist or hand & Right	3. only partial map possible
+19	S61.412A	Laceration without foreign body of left hand, initial encounter	NC52.10	Laceration without foreign body of other parts of wrist or hand	NC52.10&XK8G	Laceration without foreign body of other parts of wrist or hand & Left	3. only partial map possible
+19	S61.451A	Open bite of right hand, initial encounter	NC52.14	Open bite of other parts of wrist or hand	NC52.14&XA5R12&XK9K	Open bite of other parts of wrist or hand&Hand&Right	3. only partial map possible
+19	S61.452A	Open bite of left hand, initial encounter	NC52.14	Open bite of other parts of wrist or hand	NC52.14&XA5R12&XK8G	Open bite of other parts of wrist or hand&Hand&Left	3. only partial map possible
+19	S61.512A	Laceration without foreign body of left wrist, initial encounter	NC52.10	Laceration without foreign body of other parts of wrist or hand	NC52.10&XK8G&XA2J63	Laceration without foreign body of other parts of wrist or hand & Left & Wrist	3. only partial map possible
+19	S62.102A	Fracture of unspecified carpal bone, left wrist, initial encounter for closed fracture	NC53.1	Fracture of other carpal bone	NC53.1&XK8G&XJ44E	Fracture of other carpal bone & Left & Closed fracture	3. only partial map possible
+19	S63.501A	Unspecified sprain of right wrist, initial encounter	NC54.6Z	Strain or sprain of wrist, unspecified	NC54.6Z&XK9K	Strain or sprain of wrist, unspecified	3. only partial map possible
+19	S63.502A	Unspecified sprain of left wrist, initial encounter	NC54.6Z	Strain or sprain of wrist, unspecified	NC54.6Z&XK8G	Strain or sprain of wrist, unspecified	3. only partial map possible
+19	S69.91XA	Unspecified injury of right wrist, hand and finger(s), initial encounter	NC5Z	Injuries to the wrist or hand, unspecified	NULL	NULL	3. only partial map possible
+19	S69.92XA	Unspecified injury of left wrist, hand and finger(s), initial encounter	NC5Z	Injuries to the wrist or hand, unspecified	NULL	NULL	3. only partial map possible
+19	S70.01XA	Contusion of right hip, initial encounter	NC70.1	Contusion of hip	NULL	NULL	3. only partial map possible
+19	S70.02XA	Contusion of left hip, initial encounter	NC70.1	Contusion of hip	NULL	NULL	3. only partial map possible
+19	S70.11XA	Contusion of right thigh, initial encounter	NC70.3	Contusion of thigh	NULL	NULL	3. only partial map possible
+19	S70.12XA	Contusion of left thigh, initial encounter	NC70.3	Contusion of thigh	NULL	NULL	3. only partial map possible
+19	S72.001A	Fracture of unspecified part of neck of right femur, initial encounter for closed fracture	NC72.2Z	Fracture of neck of femur, unspecified	NC72.2Z&XK9K&XJ44E	Fracture of neck of femur, unspecified & Right & Closed fracture	3. only partial map possible
+19	S72.001D	Fracture of unspecified part of neck of right femur, subsequent encounter for closed fracture with routine healing	NC72.2Z	Fracture of neck of femur, unspecified	NC72.2Z&XK9K&XJ44E	Fracture of neck of femur, unspecified & Right & Closed fracture	3. only partial map possible
+19	S72.002A	Fracture of unspecified part of neck of left femur, initial encounter for closed fracture	NC72.2Z	Fracture of neck of femur, unspecified	NC72.2Z&XK8G&XJ44E	Fracture of neck of femur, unspecified & Left & Closed fracture	3. only partial map possible
+19	S72.002D	Fracture of unspecified part of neck of left femur, subsequent encounter for closed fracture with routine healing	NC72.2Z	Fracture of neck of femur, unspecified	NC72.2Z&XK8G&XJ44E	Fracture of neck of femur, unspecified & Left & Closed fracture	3. only partial map possible
+19	S72.011A	Unspecified intracapsular fracture of right femur, initial encounter for closed fracture	NC72.23	Intracapsular fracture of femur	NULL	NULL	3. only partial map possible
+19	S72.011D	Unspecified intracapsular fracture of right femur, subsequent encounter for closed fracture with routine healing	NC72.23	Intracapsular fracture of femur	NULL	NULL	3. only partial map possible
+19	S72.012A	Unspecified intracapsular fracture of left femur, initial encounter for closed fracture	NC72.23	Intracapsular fracture of femur	NULL	NULL	3. only partial map possible
+19	S72.012D	Unspecified intracapsular fracture of left femur, subsequent encounter for closed fracture with routine healing	NC72.23	Intracapsular fracture of femur	NULL	NULL	3. only partial map possible
+19	S72.031A	Displaced midcervical fracture of right femur, initial encounter for closed fracture	NC72.21	Fracture of neck of femur, mid-cervical	NC72.21&XK9K&XJ44E&XJ8PQ	Fracture of neck of femur, mid-cervical & Right & Closed fracture & Displaced fracture	3. only partial map possible
+19	S72.032A	Displaced midcervical fracture of left femur, initial encounter for closed fracture	NC72.21	Fracture of neck of femur, mid-cervical	NC72.21&XK8G&XJ44E&XJ8PQ	Fracture of neck of femur, mid-cervical & Left & Closed fracture & Displaced fracture	3. only partial map possible
+19	S72.141A	Displaced intertrochanteric fracture of right femur, initial encounter for closed fracture	NC72.30	Intertrochanteric fracture of femur	NC72.30&XK9K&XJ44E&XJ8PQ	Intertrochanteric fracture of femur & Right & Closed fracture & Displaced fracture	3. only partial map possible
+19	S72.141D	Displaced intertrochanteric fracture of right femur, subsequent encounter for closed fracture with routine healing	NC72.30	Intertrochanteric fracture of femur	NC72.30&XK9K&XJ44E&XJ8PQ	Intertrochanteric fracture of femur & Right & Closed fracture & Displaced fracture	3. only partial map possible
+19	S72.142A	Displaced intertrochanteric fracture of left femur, initial encounter for closed fracture	NC72.30	Intertrochanteric fracture of femur	NC72.30&XK8G&XJ44E&XJ8PQ	Intertrochanteric fracture of femur & Left & Closed fracture & Displaced fracture	3. only partial map possible
+19	S72.142D	Displaced intertrochanteric fracture of left femur, subsequent encounter for closed fracture with routine healing	NC72.30	Intertrochanteric fracture of femur	NC72.30&XK8G&XJ44E&XJ8PQ	Intertrochanteric fracture of femur & Left & Closed fracture & Displaced fracture	3. only partial map possible
+19	S72.144A	Nondisplaced intertrochanteric fracture of right femur, initial encounter for closed fracture	NC72.30	Intertrochanteric fracture of femur	NC72.30&XK9K&XJ44E	Intertrochanteric fracture of femur & Right & Closed fracture	3. only partial map possible
+19	S72.145A	Nondisplaced intertrochanteric fracture of left femur, initial encounter for closed fracture	NC72.30	Intertrochanteric fracture of femur	NC72.30&XK8G&XJ44E	Intertrochanteric fracture of femur & Left & Closed fracture	3. only partial map possible
+19	S72.21XA	Displaced subtrochanteric fracture of right femur, initial encounter for closed fracture	NC72.4	Subtrochanteric fracture of femur	NC72.4&XK9K&XJ44E&XJ8PQ	Subtrochanteric fracture of femur & Right & Closed fracture & Displaced fracture	3. only partial map possible
+19	S72.22XA	Displaced subtrochanteric fracture of left femur, initial encounter for closed fracture	NC72.4	Subtrochanteric fracture of femur	NC72.4&XK8G&XJ44E&XJ8PQ	Subtrochanteric fracture of femur & Left & Closed fracture & Displaced fracture	3. only partial map possible
+19	S72.401A	Unspecified fracture of lower end of right femur, initial encounter for closed fracture	NC72.6Z	Fracture of lower end of femur, unspecified	NC72.6Z&XK9K&XJ44E	Fracture of lower end of femur, unspecified & Right & Closed fractur	3. only partial map possible
+19	S76.011A	Strain of muscle, fascia and tendon of right hip, initial encounter	NC76.00	Strain or sprain of muscle, fascia or tendon of hip	NULL	NULL	3. only partial map possible
+19	S76.012A	Strain of muscle, fascia and tendon of left hip, initial encounter	NC76.00	Strain or sprain of muscle, fascia or tendon of hip	NULL	NULL	3. only partial map possible
+19	S79.911A	Unspecified injury of right hip, initial encounter	NC7Z	Injuries to the hip or thigh, unspecified	NULL	NULL	3. only partial map possible
+19	S79.912A	Unspecified injury of left hip, initial encounter	NC7Z	Injuries to the hip or thigh, unspecified	NULL	NULL	3. only partial map possible
+19	S80.01XA	Contusion of right knee, initial encounter	NC90.1	Contusion of knee	NC90.1&XK9K	Contusion of knee & Right	3. only partial map possible
+19	S80.02XA	Contusion of left knee, initial encounter	NC90.1	Contusion of knee	NC90.1&XK8G	Contusion of knee & Left	3. only partial map possible
+19	S80.11XA	Contusion of right lower leg, initial encounter	NC90.3	Contusion of other or unspecified parts of lower leg	NC90.3&XK9K	Contusion of other or unspecified parts of lower leg & Right	3. only partial map possible
+19	S80.12XA	Contusion of left lower leg, initial encounter	NC90.3	Contusion of other or unspecified parts of lower leg	NC90.3&XK8G	Contusion of other or unspecified parts of lower leg & Left	3. only partial map possible
+19	S80.211A	Abrasion, right knee, initial encounter	NC90.0	Abrasion of knee	NC90.0&XK9K	Abrasion of knee & Right	3. only partial map possible
+19	S80.212A	Abrasion, left knee, initial encounter	NC90.0	Abrasion of knee	NC90.0&XK8G	Abrasion of knee & Left	3. only partial map possible
+19	S80.811A	Abrasion, right lower leg, initial encounter	NC90.2	Abrasion of other or unspecified parts of lower leg	NC90.2&XK9K	Abrasion of other or unspecified parts of lower leg & Right	3. only partial map possible
+19	S80.812A	Abrasion, left lower leg, initial encounter	NC90.2	Abrasion of other or unspecified parts of lower leg	NC90.2&XK8G	Abrasion of other or unspecified parts of lower leg & Left	3. only partial map possible
+19	S80.861A	Insect bite (nonvenomous), right lower leg, initial encounter	NC90.Y	Other specified superficial injury of knee or lower leg	NC90.Y&XJ69A&XK9K	Other specified superficial injury of knee or lower leg&Insect bite, nonvenomous&Right	3. only partial map possible
+19	S80.862A	Insect bite (nonvenomous), left lower leg, initial encounter	NC90.Y	Other specified superficial injury of knee or lower leg	NC90.Y&XJ69A&XK8G	Other specified superficial injury of knee or lower leg&Insect bite, nonvenomous&Left	3. only partial map possible
+19	S81.011A	Laceration without foreign body, right knee, initial encounter	NC91.Y	Other specified open wound of knee or lower leg	NC91.Y&XA8KL5&XK9K	&Knee&Right	3. only partial map possible
+19	S81.012A	Laceration without foreign body, left knee, initial encounter	NC91.Y	Other specified open wound of knee or lower leg	NC91.Y&XA8KL5&XK8G	Other specified open wound of knee or lower leg&Knee&Lef	3. only partial map possible
+19	S81.801A	Unspecified open wound, right lower leg, initial encounter	NC91.Z	Open wound of knee or lower leg, unspecified	NC91.Z&XA3YG1&XK9K	Open wound of knee or lower leg, unspecified & Lower leg & Right	3. only partial map possible
+19	S81.801D	Unspecified open wound, right lower leg, subsequent encounter	NC91.Z	Open wound of knee or lower leg, unspecified	NC91.Z&XA3YG1&XK9K	Open wound of knee or lower leg, unspecified & Lower leg & Right	3. only partial map possible
+19	S81.802A	Unspecified open wound, left lower leg, initial encounter	NC91.Z	Open wound of knee or lower leg, unspecified	NC91.Z&XA3YG1&XK8G	Open wound of knee or lower leg, unspecified & Lower leg & Left	3. only partial map possible
+19	S81.802D	Unspecified open wound, left lower leg, subsequent encounter	NC91.Z	Open wound of knee or lower leg, unspecified	NC91.Z&XA3YG1&XK8G	Open wound of knee or lower leg, unspecified & Lower leg & Left	3. only partial map possible
+19	S81.811A	Laceration without foreign body, right lower leg, initial encounter	NC91.0	Laceration without foreign body of lower leg	NC91.0&XK9K	Laceration without foreign body of lower leg & Right	3. only partial map possible
+19	S81.812A	Laceration without foreign body, left lower leg, initial encounter	NC91.0	Laceration without foreign body of lower leg	NC91.0&XK8G	Laceration without foreign body of lower leg & Left	3. only partial map possible
+19	S81.812D	Laceration without foreign body, left lower leg, subsequent encounter	NC91.0	Laceration without foreign body of lower leg	NC91.0&XK8G	Laceration without foreign body of lower leg & Left	3. only partial map possible
+19	S82.141A	Displaced bicondylar fracture of right tibia, initial encounter for closed fracture	NC92.1Y	Other specified fracture of upper end of tibia	NC92.1Y&XK9K&XA5RE8&XJ44E&XJ8PQ	Other specified fracture of upper end of tibia & Right & Tibial condyle & Closed fracture & Displaced fracture	3. only partial map possible
+19	S82.142A	Displaced bicondylar fracture of left tibia, initial encounter for closed fracture	NC92.1Y	Other specified fracture of upper end of tibia	NC92.1Y&XK8G&XA5RE8&XJ44E&XJ8PQ	Other specified fracture of upper end of tibia & Left & Tibial condyle & Closed fracture & Displaced fracture	3. only partial map possible
+19	S82.61XA	Displaced fracture of lateral malleolus of right fibula, initial encounter for closed fracture	NC92.6	Fracture of lateral malleolus	NC92.6&XK9K&XJ44E&XJ8PQ	Fracture of lateral malleolus & Right & Closed fracture & Displaced fracture	3. only partial map possible
+19	S82.831A	Other fracture of upper and lower end of right fibula, initial encounter for closed fracture	NC92.4Y	Other specified fracture of fibula alone	NC92.4Y&XK9K&XA4UL1&XA0K77&XJ44E	Other specified fracture of fibula alone& Right & Lateral malleolus & Fibular head & Closed fracture	3. only partial map possible
+19	S82.832A	Other fracture of upper and lower end of left fibula, initial encounter for closed fracture	NC92.4Y	Other specified fracture of fibula alone	NC92.4Y&XK8G&XA4UL1&XA0K77&XJ44	Other specified fracture of fibula alone & Left & Lateral malleolus & Fibular head & Closed fracture	3. only partial map possible
+19	S82.841A	Displaced bimalleolar fracture of right lower leg, initial encounter for closed fracture	NC92.76	Bimalleolar fracture of ankle, not otherwise specified	NC92.76&XJ44E&XK9K	Bimalleolar fracture of ankle, not otherwise specified&Closed Fracture&Right	3. only partial map possible
+19	S82.842A	Displaced bimalleolar fracture of left lower leg, initial encounter for closed fracture	NC92.76	Bimalleolar fracture of ankle, not otherwise specified	NC92.76&XJ44E&XK8G	Bimalleolar fracture of ankle, not otherwise specified&Closed Fracture&Left	3. only partial map possible
+19	S82.851A	Displaced trimalleolar fracture of right lower leg, initial encounter for closed fracture	NC92.77	Trimalleolar fracture of ankle, not otherwise specified	NC92.77&XK9K&XJ44E	Trimalleolar fracture of ankle, not otherwise specified&Right&Closed Fracture	3. only partial map possible
+19	S82.852A	Displaced trimalleolar fracture of left lower leg, initial encounter for closed fracture	NC92.77	Trimalleolar fracture of ankle, not otherwise specified	NC92.77&XK8G&XJ44E	Trimalleolar fracture of ankle, not otherwise specified&Left&Closed Fracture	3. only partial map possible
+19	S82.891A	Other fracture of right lower leg, initial encounter for closed fracture	NC92.Z	Fracture of lower leg, including ankle, unspecified	NC92.Z&XK9K&XJ44E	Fracture of lower leg, including ankle, unspecified & Right & Closed fracture	3. only partial map possible
+19	S82.892A	Other fracture of left lower leg, initial encounter for closed fracture	NC92.Z	Fracture of lower leg, including ankle, unspecified	NC92.Z&XK8G&XJ44E	Fracture of lower leg, including ankle, unspecified & Left & Closed fracture	3. only partial map possible
+19	S83.231A	Complex tear of medial meniscus, current injury, right knee, initial encounter	NC93.30	Tear of medial meniscus	NC93.30&XK9K	Tear of medial meniscus & Right	3. only partial map possible
+19	S83.232A	Complex tear of medial meniscus, current injury, left knee, initial encounter	NC93.30	Tear of medial meniscus	NC93.30&XK8G	Tear of medial meniscus & Left	3. only partial map possible
+19	S83.241A	Other tear of medial meniscus, current injury, right knee, initial encounter	NC93.30	Tear of medial meniscus	NC93.30&XK9K	Tear of medial meniscus & Right	3. only partial map possible
+19	S83.242A	Other tear of medial meniscus, current injury, left knee, initial encounter	NC93.30	Tear of medial meniscus	NC93.30&XK8G	Tear of medial meniscus & Left	3. only partial map possible
+19	S83.281A	Other tear of lateral meniscus, current injury, right knee, initial encounter	NC93.31	Tear of lateral meniscus	NC93.31&XK9K	Tear of lateral meniscus & Right	3. only partial map possible
+19	S83.282A	Other tear of lateral meniscus, current injury, left knee, initial encounter	NC93.31	Tear of lateral meniscus	NC93.31&XK8G	Tear of lateral meniscus & Left	3. only partial map possible
+19	S83.91XA	Sprain of unspecified site of right knee, initial encounter	NC93.7	Strain or sprain of other or unspecified parts of knee	NC93.7&XK9K	Strain or sprain of other or unspecified parts of knee & Right	3. only partial map possible
+19	S83.92XA	Sprain of unspecified site of left knee, initial encounter	NC93.7	Strain or sprain of other or unspecified parts of knee	NC93.7&XK8G	Strain or sprain of other or unspecified parts of knee & Left	3. only partial map possible
+19	S86.911A	Strain of unspecified muscle(s) and tendon(s) at lower leg level, right leg, initial encounter	FB32.5	Muscle strain or sprain	FB32.5&XK9K&XA47J0	Muscle strain or sprain & Right & Muscles of the lower extremity	3. only partial map possible
+19	S86.912A	Strain of unspecified muscle(s) and tendon(s) at lower leg level, left leg, initial encounter	FB32.5	Muscle strain or sprain	FB32.5&XK8G&XA47J0	Muscle strain or sprain & Left & Muscles of the lower extremity	3. only partial map possible
+19	S89.91XA	Unspecified injury of right lower leg, initial encounter	NC9Z	Injuries to the knee or lower leg, unspecified	NULL	NULL	3. only partial map possible
+19	S89.92XA	Unspecified injury of left lower leg, initial encounter	NC9Z	Injuries to the knee or lower leg, unspecified	NULL	NULL	3. only partial map possible
+19	S90.31XA	Contusion of right foot, initial encounter	ND11.8	Contusion of other or unspecified parts of foot	ND11.8&XK9K	Contusion of other or unspecified parts of foot & Right	3. only partial map possible
+19	S90.32XA	Contusion of left foot, initial encounter	ND11.8	Contusion of other or unspecified parts of foot	ND11.8&XK8G	Contusion of other or unspecified parts of foot & Left	3. only partial map possible
+19	S91.301A	Unspecified open wound, right foot, initial encounter	ND12.Z	Open wound of ankle or foot, unspecified	ND12.Z&XK9K&XA47V8	Open wound of ankle or foot, unspecified & Right & Foot	3. only partial map possible
+19	S91.301D	Unspecified open wound, right foot, subsequent encounter	ND12.Z	Open wound of ankle or foot, unspecified	ND12.Z&XK9K&XA47V8	Open wound of ankle or foot, unspecified & Right & Foot	3. only partial map possible
+19	S91.302A	Unspecified open wound, left foot, initial encounter	ND12.Z	Open wound of ankle or foot, unspecified	ND12.Z&XK8G&XA47V8	Open wound of ankle or foot, unspecified & Left & Foot	3. only partial map possible
+19	S91.302D	Unspecified open wound, left foot, subsequent encounter	ND12.Z	Open wound of ankle or foot, unspecified	ND12.Z&XK8G&XA47V8	Open wound of ankle or foot, unspecified & Left & Foot	3. only partial map possible
+19	S92.351A	Displaced fracture of fifth metatarsal bone, right foot, initial encounter for closed fracture	ND13.3	Fracture of metatarsal bone	ND13.3&XK9K&XJ44E&XJ8PQ	Fracture of metatarsal bone Right & Displaced fracture	3. only partial map possible
+19	S92.352A	Displaced fracture of fifth metatarsal bone, left foot, initial encounter for closed fracture	ND13.3	Fracture of metatarsal bone	ND13.3&XJ44E&XJ8PQ&XK8G	Fracture of metatarsal bone& Closed fracture& Displaced fracture & Left	3. only partial map possible
+19	S92.354A	Nondisplaced fracture of fifth metatarsal bone, right foot, initial encounter for closed fracture	ND13.3	Fracture of metatarsal bone	ND13.3&XJ44E&XK9K	Fracture of metatarsal bone& Closed fracture & Right	3. only partial map possible
+19	S92.355A	Nondisplaced fracture of fifth metatarsal bone, left foot, initial encounter for closed fracture	ND13.3	Fracture of metatarsal bone	ND13.3&XJ44E&XK8G	Fracture of metatarsal bone& Closed fracture & Left	3. only partial map possible
+19	S93.401A	Sprain of unspecified ligament of right ankle, initial encounter	ND14.7Z	Strain or sprain of ankle, unspecified	ND14.7Z&XK9K&XA2F70	Strain or sprain of ankle, unspecified & Right & Ligament of the ankle or foot	3. only partial map possible
+19	S93.402A	Sprain of unspecified ligament of left ankle, initial encounter	ND14.7Z	Strain or sprain of ankle, unspecified	ND14.7Z&XK8G&XA2F70	Strain or sprain of ankle, unspecified & Left & Ligament of the ankle or foot	3. only partial map possible
+19	S93.601A	Unspecified sprain of right foot, initial encounter	ND14.AZ	Sprain of unspecified parts of foot	ND14.AZ&XK9K	Sprain of unspecified parts of foot& Right	3. only partial map possible
+19	S93.602A	Unspecified sprain of left foot, initial encounter	ND14.AZ	Sprain of unspecified parts of foot	ND14.AZ&XK8G	Sprain of unspecified parts of foot& Left	3. only partial map possible
+19	S99.911A	Unspecified injury of right ankle, initial encounter	ND1Z	Injuries to the ankle or foot, unspecified	NULL	NULL	3. only partial map possible
+19	S99.912A	Unspecified injury of left ankle, initial encounter	ND1Z	Injuries to the ankle or foot, unspecified	NULL	NULL	3. only partial map possible
+19	S99.921A	Unspecified injury of right foot, initial encounter	ND1Z	Injuries to the ankle or foot, unspecified	NULL	NULL	3. only partial map possible
+19	S99.922A	Unspecified injury of left foot, initial encounter	ND1Z	Injuries to the ankle or foot, unspecified	NULL	NULL	3. only partial map possible
+19	T14.8XXA	Other injury of unspecified body region, initial encounter	ND56.Y	Other specified injury of unspecified body region	NULL	NULL	3. only partial map possible
+19	T16.1XXA	Foreign body in right ear, initial encounter	ND71	Foreign body in ear	ND71&XK9K	Foreign body in ear & Right	3. only partial map possible
+19	T16.2XXA	Foreign body in left ear, initial encounter	ND71	Foreign body in ear	ND71&XK8G	Foreign body in ear & Left	3. only partial map possible
+19	T17.590A	Other foreign object in bronchus causing asphyxiation, initial encounter	ND72.5	Foreign body in bronchus	NULL	NULL	3. only partial map possible
+19	T17.890A	Other foreign object in other parts of respiratory tract causing asphyxiation, initial encounter	ND72.Y	Foreign body in other parts of respiratory tract	ND72.Y/PB07	Foreign body in other parts of respiratory tract / Unintentional threat to breathing by inhalation or ingestion of other objects or materials	3. only partial map possible
+19	T17.990A	Other foreign object in respiratory tract, part unspecified in causing asphyxiation, initial encounter	ND72.Z	Foreign body in unspecified part of respiratory tract	ND72.Z/PB07	Foreign body in unspecified part of respiratory tract / Unintentional threat to breathing by inhalation or ingestion of other objects or materials	3. only partial map possible
+19	T18.128A	Food in esophagus causing other injury, initial encounter	ND73.1	Foreign body in oesophagus	NULL	NULL	3. only partial map possible
+19	T31.0	Burns involving less than 10% of body surface	NE11	Burn of unspecified body region	NULL	NULL	3. only partial map possible
+19	T36.0X5A	Adverse effect of penicillins, initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60&XM7Q57/PB28	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified & Penicillin (any) / Unintentional exposure to or harmful effects of other or unspecified drug, medicament or biological substance	3. only partial map possible
+19	T36.1X5A	Adverse effect of cephalosporins and other beta-lactam antibiotics, initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60/PL00&XM3WK4	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified / Drugs, medicaments or biological substances associated with injury or harm in therapeutic use & Antibiotic b-lactam	3. only partial map possible
+19	T36.8X5A	Adverse effect of other systemic antibiotics, initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60&XM7SQ4/PB28	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified & Antibiotic specified / Unintentional exposure to or harmful effects of other or unspecified drug, medicament or biological substance	3. only partial map possible
+19	T36.95XA	Adverse effect of unspecified systemic antibiotic, initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60&XM7SQ4/PB28	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified & Antibiotic specified / Unintentional exposure to or harmful effects of other or unspecified drug, medicament or biological substance	3. only partial map possible
+19	T37.0X5A	Adverse effect of sulfonamides, initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60&XM5CX9/PB28	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified & Sulfonamides, combinations with other antibacterials / Unintentional exposure to or harmful effects of other or unspecified drug, medicament or biological substance	3. only partial map possible
+19	T38.0X5A	Adverse effect of glucocorticoids and synthetic analogues, initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60&XM4Z52/PB28	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified & Glucocorticoids  / Unintentional exposure to or harmful effects of other or unspecified drug, medicament or biological substance	3. only partial map possible
+19	T38.3X5A	Adverse effect of insulin and oral hypoglycemic [antidiabetic] drugs, initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60&XM21C9&XM8S35/PB28	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified & Insulin human & Antidiabetic  / Unintentional exposure to or harmful effects of other or unspecified drug, medicament or biological substance	3. only partial map possible
+19	T39.395A	Adverse effect of other nonsteroidal anti-inflammatory drugs [NSAID], initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60&XM4KS4/PB28	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified & Nonsteroidal anti-inflammatory and antirheumatic agents  / Unintentional exposure to or harmful effects of other or unspecified drug, medicament or biological subst	3. only partial map possible
+19	T40.1X1A	Poisoning by heroin, accidental (unintentional), initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60/PB20&XM05B3	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified /  Unintentional exposure to or harmful effects of opioids or related analgesics &Diamorphine	3. only partial map possible
+19	T40.2X1A	Poisoning by other opioids, accidental (unintentional), initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60/PB20&XM7S23	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified / Unintentional exposure to or harmful effects of other or unspecified drug, medicament or biological substance & Opioid	3. only partial map possible
+19	T40.2X5A	Adverse effect of other opioids, initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60/PL00&XM4S22	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified / Drugs, medicaments or biological substances associated with injury or harm in therapeutic use &Other opioid analgesics, natural, synthetic and semi-synthetic	3. only partial map possible
+19	T40.4X5A	Adverse effect of other synthetic narcotics, initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60&XM8PP7/PB28	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified & Narcotic synthetic / Unintentional exposure to or harmful effects of other or unspecified drug, medicament or biological substance	3. only partial map possible
+19	T40.601A	Poisoning by unspecified narcotics, accidental (unintentional), initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60/PB20	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified /  Unintentional exposure to or harmful effects of opioids or related analgesics	3. only partial map possible
+19	T40.605A	Adverse effect of unspecified narcotics, initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60/PL00&XM7S23	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified / Drugs, medicaments or biological substances associated with injury or harm in therapeutic use & Opioid	3. only partial map possible
+19	T42.4X1A	Poisoning by benzodiazepines, accidental (unintentional), initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60/PB21&XM1J81	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified / Unintentional exposure to or harmful effects of sedative hypnotic drugs or other CNS depressants & Central nervous system depressants benzodiazepines	3. only partial map possible
+19	T42.4X2A	Poisoning by benzodiazepines, intentional self-harm, initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60/PC91&XM1J81	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified / Intentional self-harm by exposure to or harmful effects of sedative hypnotic drugs or other CNS depressants & Central nervous system depressants benzodiazepines	3. only partial map possible
+19	T42.4X5A	Adverse effect of benzodiazepines, initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60&XM1J81/PB28	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified & Central nervous system depressants benzodiazepines / Unintentional exposure to or harmful effects of other or unspecified drug, medicament or biological substance	3. only partial map possible
+19	T42.6X5A	Adverse effect of other antiepileptic and sedative-hypnotic drugs, initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60&XM9GA9&XM5YQ4&XM3GR8/PB28	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified & Other antiepileptics & Sedative mixed & Hypnotic drug specified / Unintentional exposure to or harmful effects of other or unspecified drug, medicament or biologica	3. only partial map possible
+19	T43.595A	Adverse effect of other antipsychotics and neuroleptics, initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60&XM7AA5/PB28	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified & Antipsychotic drug specified / Unintentional exposure to or harmful effects of other or unspecified drug, medicament or biological substance	3. only partial map possible
+19	T44.7X5A	Adverse effect of beta-adrenoreceptor antagonists, initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60/PB28	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified / Unintentional exposure to or harmful effects of other or unspecified drug, medicament or biological substance	3. only partial map possible
+19	T45.1X5A	Adverse effect of antineoplastic and immunosuppressive drugs, initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60&XM6Q44&XM1079/PB28	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified & Antineoplastic without further specification & Immunosuppressive drug / Unintentional exposure to or harmful effects of other or unspecified drug, medicament or bio	3. only partial map possible
+19	T45.1X5D	Adverse effect of antineoplastic and immunosuppressive drugs, subsequent encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60&XM6Q44&XM1079/PB28	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified & Antineoplastic without further specification & Immunosuppressive drug / Unintentional exposure to or harmful effects of other or unspecified drug, medicament or bio	3. only partial map possible
+19	T45.515A	Adverse effect of anticoagulants, initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60&XM17B1/PB28	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified & Anticoagulant and antithrombotic enzymes / Unintentional exposure to or harmful effects of other or unspecified drug, medicament or biological substance	3. only partial map possible
+19	T45.525A	Adverse effect of antithrombotic drugs, initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60&XM1AM0/PB28	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified & Other antithrombotic agents / Unintentional exposure to or harmful effects of other or unspecified drug, medicament or biological substance	3. only partial map possible
+19	T46.1X5A	Adverse effect of calcium-channel blockers, initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60/PB28	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified / Unintentional exposure to or harmful effects of other or unspecified drug, medicament or biological substance	3. only partial map possible
+19	T46.2X5A	Adverse effect of other antidysrhythmic drugs, initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60&XM0KK7/PB28	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified & Antidysrhythmic / Unintentional exposure to or harmful effects of other or unspecified drug, medicament or biological substance	3. only partial map possible
+19	T46.4X5A	Adverse effect of angiotensin-converting-enzyme inhibitors, initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60&XM72L5/PB28	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified & Angiotensin-converting-enzyme inhibitors / Unintentional exposure to or harmful effects of other or unspecified drug, medicament or biological substance	3. only partial map possible
+19	T46.5X5A	Adverse effect of other antihypertensive drugs, initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60&XM2PT6/PB28	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified & Antihypertensive drug / Unintentional exposure to or harmful effects of other or unspecified drug, medicament or biological substance	3. only partial map possible
+19	T50.1X5A	Adverse effect of loop [high-ceiling] diuretics, initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60&XM8CG7/PB28	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified & Diuretic loop (high-ceiling) / Unintentional exposure to or harmful effects of other or unspecified drug, medicament or biological substance	3. only partial map possible
+19	T50.2X5A	Adverse effect of carbonic-anhydrase inhibitors, benzothiadiazides and other diuretics, initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60/PL00 & XM8B36	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified / Drugs, medicaments or biological substances associated with injury or harm in therapeutic use & Diuretic carbonic acid anhydrase inhibitors	3. only partial map possible
+19	T50.8X5A	Adverse effect of diagnostic agents, initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60/PB28	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified / Unintentional exposure to or harmful effects of other or unspecified drug, medicament or biological substance	3. only partial map possible
+19	T50.901A	Poisoning by unspecified drugs, medicaments and biological substances, accidental (unintentional), initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60/PB28	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified / Unintentional exposure to or harmful effects of other or unspecified drug, medicament or biological substance	3. only partial map possible
+19	T50.905A	Adverse effect of unspecified drugs, medicaments and biological substances, initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60/PB28	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified / Unintentional exposure to or harmful effects of other or unspecified drug, medicament or biological substance	3. only partial map possible
+19	T50.995A	Adverse effect of other drugs, medicaments and biological substances, initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60/PB28	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified / Unintentional exposure to or harmful effects of other or unspecified drug, medicament or biological substance	3. only partial map possible
+19	T63.441A	Toxic effect of venom of bees, accidental (unintentional), initial encounter	NE61	Harmful effects of or exposure to noxious substances, chiefly nonmedicinal as to source, not elsewhere classified	NE61&XM13H7/PB36	Harmful effects of or exposure to noxious substances, chiefly nonmedicinal as to source, not elsewhere classified & Bee venom / Unintentional exposure to or harmful effects of other or unspecified substances chiefly nonmedicinal as to source	3. only partial map possible
+19	T63.461A	Toxic effect of venom of wasps, accidental (unintentional), initial encounter	NE61	Harmful effects of or exposure to noxious substances, chiefly nonmedicinal as to source, not elsewhere classified	NE61&XM2YA4/PB36	Harmful effects of or exposure to noxious substances, chiefly nonmedicinal as to source, not elsewhere classified & Wasp venom / Unintentional exposure to or harmful effects of other or unspecified substances chiefly nonmedicinal as to source	3. only partial map possible
+19	T67.5XXA	Heat exhaustion, unspecified, initial encounter	NF01.Z	Effects of heat, unspecified	NULL	NULL	3. only partial map possible
+19	T68.XXXA	Hypothermia, initial encounter	NF02	Hypothermia	NULL	NULL	3. only partial map possible
+19	T78.1XXA	Other adverse food reactions, not elsewhere classified, initial encounter	4A8Y	Allergic or hypersensitivity conditions of other specified type	NULL	NULL	3. only partial map possible
+19	T78.3XXA	Angioneurotic edema, initial encounter	EB04	Idiopathic angioedema	NULL	NULL	3. only partial map possible
+19	T78.40XA	Allergy, unspecified, initial encounter	4A8Z	Allergic or hypersensitivity conditions of unspecified type	NULL	NULL	3. only partial map possible
+19	T79.6XXA	Traumatic ischemia of muscle, initial encounter	NF0A.6	Traumatic ischaemia of muscle, not elsewhere classified	NULL	NULL	3. only partial map possible
+19	T80.211A	Bloodstream infection due to central venous catheter, initial encounter	NE83.1	Infection arising from device, implant or graft, not elsewhere classified	NE83.1/PK91.15	Infection arising from device, implant or graft, not elsewhere classified / Cardiovascular devices associated with injury or harm, central venous catheter	3. only partial map possible
+19	T81.19XA	Other postprocedural shock, initial encounter	NE8Z	Injury or harm arising from surgical or medical care, not elsewhere classified, unspecified	NULL	NULL	3. only partial map possible
+19	T81.30XA	Disruption of wound, unspecified, initial encounter	NE81.1	Disruption of operation wound, not elsewhere classified	NULL	NULL	3. only partial map possible
+19	T81.31XA	Disruption of external operation (surgical) wound, not elsewhere classified, initial encounter	NE81.1	Disruption of operation wound, not elsewhere classified	NULL	NULL	3. only partial map possible
+19	T81.31XD	Disruption of external operation (surgical) wound, not elsewhere classified, subsequent encounter	NE81.1	Disruption of operation wound, not elsewhere classified	NULL	NULL	3. only partial map possible
+19	T81.32XA	Disruption of internal operation (surgical) wound, not elsewhere classified, initial encounter	NE81.1	Disruption of operation wound, not elsewhere classified	NULL	NULL	3. only partial map possible
+19	T81.89XA	Other complications of procedures, not elsewhere classified, initial encounter	NE81.Y	Other specified injury or harm arising from a procedure, not elsewhere classified	NULL		3. only partial map possible
+19	T81.89XD	Other complications of procedures, not elsewhere classified, subsequent encounter	NE81.Y	Other specified injury or harm arising from a procedure, not elsewhere classified	NULL	NULL	3. only partial map possible
+19	T82.41XA	Breakdown (mechanical) of vascular dialysis catheter, initial encounter	NE83.Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified	NE83.Y/PK91.1Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified / Other specified cardiovascular devices associated with injury or harm, therapeutic, nonsurgical or rehabilitative devices	3. only partial map possible
+19	T82.49XA	Other complication of vascular dialysis catheter, initial encounter	NE81.Y	Other specified injury or harm arising from a procedure, not elsewhere classified	PK91.1Y/NE81.Y	Other specified cardiovascular devices associated with injury or harm, therapeutic, nonsurgical or rehabilitative devices / Other specified injury or harm arising from a procedure, not elsewhere classified	3. only partial map possible
+19	T82.590A	Other mechanical complication of surgically created arteriovenous fistula, initial encounter	NE81.Y	Other specified injury or harm arising from a procedure, not elsewhere classified	PK91.20/NE81.Y	Cardiovascular devices associated with injury or harm, grafts / Other specified injury or harm arising from a procedure, not elsewhere classified	3. only partial map possible
+19	T82.7XXA	Infection and inflammatory reaction due to other cardiac and vascular devices, implants and grafts, initial encounter	NE83.1	Infection arising from device, implant or graft, not elsewhere classified	NE83.1/PK91.2Y	Infection arising from device, implant or graft, not elsewhere classified / Other specified cardiovascular devices associated with injury or harm, prosthetic or other implants, materials or accessory devices	3. only partial map possible
+19	T82.838A	Hemorrhage due to vascular prosthetic devices, implants and grafts, initial encounter	NE81.0Z	Haemorrhage or haematoma of other or unspecified site complicating a procedure, not elsewhere classified	NE81.0Z/PK91.2Z	Haemorrhage or haematoma of other or unspecified site complicating a procedure, not elsewhere classified / Cardiovascular devices associated with injury or harm, prosthetic or other implants, materials or accessory devices, unspecified	3. only partial map possible
+19	T82.855A	Stenosis of coronary artery stent, initial encounter	NE83.Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified	NE83.Y/PK91.2Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified / Other specified cardiovascular devices associated with injury or harm, prosthetic or other implants, materials or accessory devices	3. only partial map possible
+19	T82.857A	Stenosis of other cardiac prosthetic devices, implants and grafts, initial encounter	NE83.Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified	NE83.Y/PK91.2Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified / Other specified cardiovascular devices associated with injury or harm, prosthetic or other implants, materials or accessory devices	3. only partial map possible
+19	T82.858A	Stenosis of other vascular prosthetic devices, implants and grafts, initial encounter	NE83.Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified	NE83.Y/PK91.2Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified / Other specified cardiovascular devices associated with injury or harm, prosthetic or other implants, materials or accessory devices	3. only partial map possible
+19	T82.867A	Thrombosis due to cardiac prosthetic devices, implants and grafts, initial encounter	NE83.Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified	NE83.Y/PK91.2Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified / Other specified cardiovascular devices associated with injury or harm, prosthetic or other implants, materials or accessory devices	3. only partial map possible
+19	T82.868A	Thrombosis due to vascular prosthetic devices, implants and grafts, initial encounter	NE83.Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified	NE83.Y/PK91.2Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified / Other specified cardiovascular devices associated with injury or harm, prosthetic or other implants, materials or accessory devices	3. only partial map possible
+19	T82.897A	Other specified complication of cardiac prosthetic devices, implants and grafts, initial encounter	NE83.Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified	NE83.Y/PK91.2Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified / Other specified cardiovascular devices associated with injury or harm, prosthetic or other implants, materials or accessory devices	3. only partial map possible
+19	T82.898A	Other specified complication of vascular prosthetic devices, implants and grafts, initial encounter	NE83.Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified	NE83.Y/PK91.2Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified / Other specified cardiovascular devices associated with injury or harm, prosthetic or other implants, materials or accessory devices	3. only partial map possible
+19	T82.9XXA	Unspecified complication of cardiac and vascular prosthetic device, implant and graft, initial encounter	NE83.Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified	NE83.Y/PK91.2Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified / Other specified cardiovascular devices associated with injury or harm, prosthetic or other implants, materials or accessory devices	3. only partial map possible
+19	T83.038A	Leakage of other urinary catheter, initial encounter	NE83.Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified	NE83.Y/PK93.10	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified / Gastroenterology or urology devices associated with injury or harm, urinary catheter	3. only partial map possible
+19	T83.091A	Other mechanical complication of indwelling urethral catheter, initial encounter	NE83.Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified	NE83.Y/PK93.10	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified / Gastroenterology or urology devices associated with injury or harm, urinary catheter	3. only partial map possible
+19	T83.098A	Other mechanical complication of other urinary catheter, initial encounter	NE83.Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified	NE83.Y/PK93.10	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified / Gastroenterology or urology devices associated with injury or harm, urinary catheter	3. only partial map possible
+19	T83.510A	Infection and inflammatory reaction due to cystostomy catheter, initial encounter	NE83.1	Infection arising from device, implant or graft, not elsewhere classified	NE83.1/PK93.10	Infection arising from device, implant or graft, not elsewhere classified / Gastroenterology or urology devices associated with injury or harm, urinary catheter	3. only partial map possible
+19	T83.511A	Infection and inflammatory reaction due to indwelling urethral catheter, initial encounter	NE83.1	Infection arising from device, implant or graft, not elsewhere classified	NE83.1/PK93.10	Infection arising from device, implant or graft, not elsewhere classified / Gastroenterology or urology devices associated with injury or harm, urinary catheter	3. only partial map possible
+19	T83.518A	Infection and inflammatory reaction due to other urinary catheter, initial encounter	NE83.1	Infection arising from device, implant or graft, not elsewhere classified	NE83.1/PK93.10	Infection arising from device, implant or graft, not elsewhere classified / Gastroenterology or urology devices associated with injury or harm, urinary catheter	3. only partial map possible
+19	T83.83XA	Hemorrhage due to genitourinary prosthetic devices, implants and grafts, initial encounter	NE81.0Z	Haemorrhage or haematoma of other or unspecified site complicating a procedure, not elsewhere classified	NE81.0Z/PK93.2	Haemorrhage or haematoma of other or unspecified site complicating a procedure, not elsewhere classified / Gastroenterology or urology devices associated with injury or harm, prosthetic or other implants, materials or accessory devices	3. only partial map possible
+19	T83.9XXA	Unspecified complication of genitourinary prosthetic device, implant and graft, initial encounter	NE83.Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified	NE83.Y/PK93.10	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified / Gastroenterology or urology devices associated with injury or harm, urinary catheter	3. only partial map possible
+19	T84.020A	Dislocation of internal right hip prosthesis, initial encounter	NE83.Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified	NE83.Y/PL12.4	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified & Dislodgement, misconnection or de-attachment, as mode of injury or harm	3. only partial map possible
+19	T84.021A	Dislocation of internal left hip prosthesis, initial encounter	NE83.Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified	NE83.Y/PL12.4	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified & Dislodgement, misconnection or de-attachment, as mode of injury or harm	3. only partial map possible
+19	T84.022A	Instability of internal right knee prosthesis, initial encounter	NE83.Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified	NE83.Y/PL12.4	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified & Dislodgement, misconnection or de-attachment, as mode of injury or harm	3. only partial map possible
+19	T84.023A	Instability of internal left knee prosthesis, initial encounter	NE83.Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified	NE83.Y/PL12.4	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified & Dislodgement, misconnection or de-attachment, as mode of injury or harm	3. only partial map possible
+19	T84.030A	Mechanical loosening of internal right hip prosthetic joint, initial encounter	NE83.Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified	NE83.Y/PL12.4	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified & Dislodgement, misconnection or de-attachment, as mode of injury or harm	3. only partial map possible
+19	T84.032A	Mechanical loosening of internal right knee prosthetic joint, initial encounter	NE83.Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified	NE83.Y/PL12.4	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified & Dislodgement, misconnection or de-attachment, as mode of injury or harm	3. only partial map possible
+19	T84.033A	Mechanical loosening of internal left knee prosthetic joint, initial encounter	NE83.Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified	NE83.Y/PL12.4	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified & Dislodgement, misconnection or de-attachment, as mode of injury or harm	3. only partial map possible
+19	T84.51XA	Infection and inflammatory reaction due to internal right hip prosthesis, initial encounter	NE83.1	Infection arising from device, implant or graft, not elsewhere classified	NE83.1/PK99.Y	Infection arising from device, implant or graft, not elsewhere classified / Other specified orthopaedic devices, implants or grafts associated with injury or harm	3. only partial map possible
+19	T84.52XA	Infection and inflammatory reaction due to internal left hip prosthesis, initial encounter	NE83.1	Infection arising from device, implant or graft, not elsewhere classified	NE83.1/PK99.Y	Infection arising from device, implant or graft, not elsewhere classified / Other specified orthopaedic devices, implants or grafts associated with injury or harm	3. only partial map possible
+19	T84.53XA	Infection and inflammatory reaction due to internal right knee prosthesis, initial encounter	NE83.1	Infection arising from device, implant or graft, not elsewhere classified	NE83.1/PK99.Y	Infection arising from device, implant or graft, not elsewhere classified / Other specified orthopaedic devices, implants or grafts associated with injury or harm	3. only partial map possible
+19	T84.54XA	Infection and inflammatory reaction due to internal left knee prosthesis, initial encounter	NE83.1	Infection arising from device, implant or graft, not elsewhere classified	NE83.1/PK99.Y	Infection arising from device, implant or graft, not elsewhere classified / Other specified orthopaedic devices, implants or grafts associated with injury or harm	3. only partial map possible
+19	T84.84XA	Pain due to internal orthopedic prosthetic devices, implants and grafts, initial encounter	NE83.Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified	NE83.Y/PK99.Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified / Other specified orthopaedic devices, implants or grafts associated with injury or harm	3. only partial map possible
+19	T84.89XA	Other specified complication of internal orthopedic prosthetic devices, implants and grafts, initial encounter	NE83.Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified	NE83.Y/PK99.Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified / Other specified orthopaedic devices, implants or grafts associated with injury or harm	3. only partial map possible
+19	T85.71XA	Infection and inflammatory reaction due to peritoneal dialysis catheter, initial encounter	NE83.1	Infection arising from device, implant or graft, not elsewhere classified	NE83.1/PK91.1Y	Infection arising from device, implant or graft, not elsewhere classified / Other specified cardiovascular devices associated with injury or harm, therapeutic, nonsurgical or rehabilitative devices	3. only partial map possible
+19	T85.79XA	Infection and inflammatory reaction due to other internal prosthetic devices, implants and grafts, initial encounter	NE83.1	Infection arising from device, implant or graft, not elsewhere classified	NE83.1/PK9C.2	Infection arising from device, implant or graft, not elsewhere classified / Other or unspecified medical devices associated with injury or harm, prosthetic or other implants, materials or accessory devices	3. only partial map possible
+19	T86.10	Unspecified complication of kidney transplant	NE81.Y	Other specified injury or harm arising from a procedure, not elsewhere classified	NE81.Y/PK80.60	Other specified injury or harm arising from a procedure, not elsewhere classified / Urological procedure associated with injury or harm, open approach	3. only partial map possible
+19	T86.11	Kidney transplant rejection	NE84	Failure or rejection of transplanted organs or tissues	NE84&XA6KU8	Failure or rejection of transplanted organs or tissues / Kidney 	3. only partial map possible
+19	T86.12	Kidney transplant failure	NE84	Failure or rejection of transplanted organs or tissues	NE84&XA6KU8	Failure or rejection of transplanted organs or tissues / Kidney 	3. only partial map possible
+19	T86.19	Other complication of kidney transplant	NE81.Y	Other specified injury or harm arising from a procedure, not elsewhere classified	NE81.Y/PK80.60	Other specified injury or harm arising from a procedure, not elsewhere classified / Urological procedure associated with injury or harm, open approach	3. only partial map possible
+19	T87.43	Infection of amputation stump, right lower extremity	NE85.4	Infection of amputation stump	NE85.4&XA45A6	Infection of amputation stump & Lower Extremity	3. only partial map possible
+19	T87.44	Infection of amputation stump, left lower extremity	NE85.4	Infection of amputation stump	NE85.4&XA45A6	Infection of amputation stump & Lower Extremity	3. only partial map possible
+19	T87.81	Dehiscence of amputation stump	NE85.6	Other or unspecified complications of amputation stump	NULL	NULL	3. only partial map possible
+19	T87.89	Other complications of amputation stump	NE85.6	Other or unspecified complications of amputation stump	NULL	NULL	3. only partial map possible
+19	T88.7XXA	Unspecified adverse effect of drug or medicament, initial encounter	NE60	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified	NE60/PB28	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified / Unintentional exposure to or harmful effects of other or unspecified drug, medicament or biological substance	3. only partial map possible
+20	W01.0XXA	Fall on same level from slipping, tripping and stumbling without subsequent striking against object, initial encounter	PA60	Unintentional fall on the same level or from less than 1 metre	NULL	NULL	3. only partial map possible
+20	W01.198A	Fall on same level from slipping, tripping and stumbling with subsequent striking against other object, initial encounter	PA60	Unintentional fall on the same level or from less than 1 metre	PA60 & XE9GE	Unintentional fall on the same level or from less than 1 metre & Blunt object, not elsewhere classified	3. only partial map possible
+20	W06.XXXA	Fall from bed, initial encounter	PA60	Unintentional fall on the same level or from less than 1 metre	PA60&XE8PK	Unintentional fall on the same level or from less than 1 metre & Bed, bedding or bedding accessories	2. full map by postcoordination
+20	W10.9XXA	Fall (on) (from) unspecified stairs and steps, initial encounter	PA6Z	Unintentional fall from unspecified height	NULL		3. only partial map possible
+20	W18.30XA	Fall on same level, unspecified, initial encounter	PA60	Unintentional fall on the same level or from less than 1 metre	NULL	NULL	3. only partial map possible
+20	W18.39XA	Other fall on same level, initial encounter	PA60	Unintentional fall on the same level or from less than 1 metre	NULL	NULL	3. only partial map possible
+20	W19.XXXA	Unspecified fall, initial encounter	PA6Z	Unintentional fall from unspecified height	NULL	NULL	3. only partial map possible
+20	W19.XXXD	Unspecified fall, subsequent encounter	PA6Z	Unintentional fall from unspecified height	NULL		3. only partial map possible
+20	W22.8XXA	Striking against or struck by other objects, initial encounter	PA82	Unintentional striking against stationary object	NULL	NULL	3. only partial map possible
+20	W57.XXXA	Bitten or stung by nonvenomous insect and other nonvenomous arthropods, initial encounter	PE15	Assault by being bitten by animal	NULL	NULL	3. only partial map possible
+20	X50.1XXA	Overexertion from prolonged static or awkward postures, initial encounter	NF07.Y	Other specified effects of deprivation	NULL		3. only partial map possible
+20	X58.XXXA	Exposure to other specified factors, initial encounter	PB6Z	Unspecified unintentional cause of morbidity or mortality	NULL	NULL	3. only partial map possible
+20	X58.XXXD	Exposure to other specified factors, subsequent encounter	PB6Y	Other unintentional cause of morbidity or mortality	NULL		3. only partial map possible
+20	Y83.1	Surgical operation with implant of artificial internal device as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure	PK9B.2	General or plastic surgery devices associated with injury or harm, prosthetic or other implants, materials or accessory devices	NULL		3. only partial map possible
+20	Y83.2	Surgical operation with anastomosis, bypass or graft as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure	PK8Y	Other specified surgical or other medical procedures associated with injury or harm in diagnostic or therapeutic use	NULL		3. only partial map possible
+20	Y83.8	Other surgical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure	PK8Z	Surgical or other medical procedures associated with injury or harm in diagnostic or therapeutic use, unspecified	NULL	NULL	3. only partial map possible
+20	Y84.6	Urinary catheterization as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure	PK93.10	Gastroenterology or urology devices associated with injury or harm, urinary catheter	NULL	NULL	3. only partial map possible
+20	Y84.8	Other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure	PK8Y	Other specified surgical or other medical procedures associated with injury or harm in diagnostic or therapeutic use	NULL	NULL	3. only partial map possible
+20	Y92.009	Unspecified place in unspecified non-institutional (private) residence as the place of occurrence of the external cause	PL2Z	External causes of morbidity or mortality, unspecified	NULL	NULL	3. only partial map possible
+20	Y95	Nosocomial condition	QB1Y	Other specified factors related to medical facilities and other health care	NULL	NULL	3. only partial map possible
+21	Z00.00	Encounter for general adult medical examination without abnormal findings	QA00.0	General adult medical examination	NULL	NULL	1. full map by precoordination
+21	Z01.810	Encounter for preprocedural cardiovascular examination	QA0B	Preprocedural examination	NULL	NULL	3. only partial map possible
+21	Z01.812	Encounter for preprocedural laboratory examination	QA0B	Preprocedural examination	NULL	NULL	3. only partial map possible
+21	Z01.818	Encounter for other preprocedural examination	QA0B	Preprocedural examination	NULL		3. only partial map possible
+21	Z12.11	Encounter for screening for malignant neoplasm of colon	QA09.1	Special screening examination for neoplasm of intestinal tract	QA09.1&XA03U9	Special screening examination for neoplasm of intestinal tract & Colon	2. full map by postcoordination
+21	Z12.31	Encounter for screening mammogram for malignant neoplasm of breast	QA09.3	Special screening examination for neoplasm of breast	NULL		3. only partial map possible
+21	Z12.5	Encounter for screening for malignant neoplasm of prostate	QA09.5	Special screening examination for neoplasm of prostate	NULL		1. full map by precoordination
+21	Z23	Encounter for immunization	QC02.Z	Need for immunization against certain specified single infectious diseases, unspecified	NULL		3. only partial map possible
+21	Z51.5	Encounter for palliative care	QB9B	Palliative care	NULL	NULL	1. full map by precoordination
+21	Z51.81	Encounter for therapeutic drug level monitoring	QB9Y	Other specified contact with health services for nonsurgical interventions not involving devices	NULL		3. only partial map possible
+21	Z66	Do not resuscitate	QB0Y	Other specified health care related circumstances influencing the episode of care without injury or harm	NULL		3. only partial map possible
+21	Z68.1	Body mass index (BMI) 19.9 or less, adult	QF4Y	Other specified factors influencing health status or contact with health services	NULL		3. only partial map possible
+21	Z78.0	Asymptomatic menopausal state	GA30.00	Menopausal or female climacteric states	NULL		1. full map by precoordination
+21	Z79.01	Long term (current) use of anticoagulants	QC48.0	Personal history of long-term use of anticoagulants	NULL	NULL	1. full map by precoordination
+21	Z79.02	Long term (current) use of antithrombotics/antiplatelets	QC48.Y	Other specified personal history of medical treatment	NULL	NULL	3. only partial map possible
+21	Z79.4	Long term (current) use of insulin	QC48.Y	Other specified personal history of medical treatment	NULL	NULL	3. only partial map possible
+21	Z79.82	Long term (current) use of aspirin	QC48.Y	Other specified personal history of medical treatment	NULL	NULL	3. only partial map possible
+21	Z79.84	Long term (current) use of oral hypoglycemic drugs	QC48.Y	Other specified personal history of medical treatment	NULL	NULL	3. only partial map possible
+21	Z79.899	Other long term (current) drug therapy	QC48.Y	Other specified personal history of medical treatment	NULL	NULL	3. only partial map possible
+21	Z82.49	Family history of ischemic heart disease and other diseases of the circulatory system	QC67	Family history of ischaemic heart disease or other diseases of the circulatory system	NULL	NULL	3. only partial map possible
+21	Z85.3	Personal history of malignant neoplasm of breast	QC40.3	Personal history of malignant neoplasm of breast	NULL	NULL	1. full map by precoordination
+21	Z86.718	Personal history of other venous thrombosis and embolism	QC4Y	Personal history of other specified health problems	NULL	NULL	3. only partial map possible
+21	Z86.73	Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits	QC47	Personal history of diseases of the nervous system or sense organs	QC47/8B10.Z/8B11.5Z	Personal history of diseases of the nervous system or sense organs / Transient ischaemic attack, unspecified / Cerebral ischaemic stroke, unspecified	2. full map by postcoordination
+21	Z87.891	Personal history of nicotine dependence	QC46	Personal history of mental or behavioural disorder	QC46/6C4A.2Z	Personal history of mental or behavioural disorder / Nicotine dependence, unspecified	2. full map by postcoordination
+21	Z88.0	Allergy status to penicillin	QC44.2	Personal history of allergy to drugs, medicaments or biological substances	QC44.2&XM7Q57	Personal history of allergy to drugs, medicaments or biological substances & Penicillin (any)	2. full map by postcoordination
+21	Z88.2	Allergy status to sulfonamides status	QC44.2	Personal history of allergy to drugs, medicaments or biological substances	NULL	NULL	3. only partial map possible
+21	Z88.5	Allergy status to narcotic agent status	QC44.2	Personal history of allergy to drugs, medicaments or biological substances	NULL	NULL	3. only partial map possible
+21	Z88.8	Allergy status to other drugs, medicaments and biological substances status	QC44.2	Personal history of allergy to drugs, medicaments or biological substances	NULL	NULL	3. only partial map possible
+21	Z90.49	Acquired absence of other specified parts of digestive tract	QF01.Y	Other specified acquired absence of organs	NULL	NULL	3. only partial map possible
+21	Z90.710	Acquired absence of both cervix and uterus	QF01.10	Acquired absence of female genital organs	QF01.10&XA99N3&XA5WW1	Acquired absence of female genital organs& Uterus& Cervix uteri	2. full map by postcoordination
+21	Z91.81	History of falling	QC4Y	Personal history of other specified health problems	NULL	NULL	3. only partial map possible
+21	Z95.0	Presence of cardiac pacemaker	QB50.00	Presence of cardiac pacemaker	NULL	NULL	1. full map by precoordination
+21	Z95.1	Presence of aortocoronary bypass graft	QB50.1	Presence of aortocoronary bypass graft	NULL	NULL	1. full map by precoordination
+21	Z95.5	Presence of coronary angioplasty implant and graft	QB50.4	Presence of coronary angioplasty implant or graft	NULL	NULL	1. full map by precoordination
+21	Z98.890	Other specified postprocedural states	QB6Y	Other specified surgical or postsurgical states	NULL	NULL	3. only partial map possible
+21	Z99.2	Dependence on renal dialysis	QB42	Dependence on renal dialysis	NULL	NULL	1. full map by precoordination
+21	Z99.81	Dependence on supplemental oxygen	QB4Y	Dependence on other specified machine or device	NULL	NULL	3. only partial map possible
