@@ -3,9 +3,9 @@ library(dplyr)
 library(readxl)
 
 # WHO Map
-whomap1 <- read_xlsx("D:/MIMIC/WHO/10To11MapToMultipleCategories.xlsx")
+whomap1 <- read_xlsx("./MIMIC/WHO/10To11MapToMultipleCategories.xlsx")
 whomap1.subset <- whomap1[, c("icd10Code", "icd10Title", "icd11Code", "icd11Title")]
-whomap2 <- read_xlsx("D:/MIMIC/WHO/10To11MapToOneCategory.xlsx")
+whomap2 <- read_xlsx("./MIMIC/WHO/10To11MapToOneCategory.xlsx")
 whomap2.subset <- whomap2[, c("icd10Code", "icd10Title", "icd11Code", "icd11Title")]
 whomap <- rbind(whomap1.subset, whomap2.subset) %>% filter(!is.na(icd11Code))
 
@@ -15,7 +15,7 @@ new_column <- rep("WHO map", nrow(whomap))
 whomap <- whomap %>% mutate(Maptype = new_column)
 
 # KW Map
-kw <- read.table("D:/MIMIC/KWMap/ocab156_Supplementary_Data.txt", header = TRUE, sep = "\t")
+kw <- read.table("./MIMIC/KWMap/ocab156_Supplementary_Data.txt", header = TRUE, sep = "\t")
 
 kw_filter1 <- kw %>% select(I10CODE, FinalPostcoor, FinalPostcoDesc, FinalMaptype) %>%
   filter(FinalMaptype == "2. full map by postcoordination") %>%
@@ -166,7 +166,7 @@ nrow(no_map_final %>% select(-ncar, -icd11Title) %>% distinct()) # 946
 
 
 # Manual mapping of the most recent icd10cm codes in the diagnostics
-manual_match_10to11 <- read.csv("D:/MIMIC/ManualMapping/icd10cm_to_icd11.csv")
+manual_match_10to11 <- read.csv("./MIMIC/ManualMapping/icd10cm_to_icd11.csv")
 mm_10cmto11 <- manual_match_10to11 %>% filter(!is.na(icd11Code)) %>% select(-icd10) %>% rename ("icd10Code" = "icd10cm")
 nouvelle_colonne <- rep("manual matching", nrow(mm_10cmto11))
 
@@ -233,4 +233,4 @@ print(current_column_names)
 ICD10cm_to_ICD11_table <- ICD10cm_to_ICD11_table[, c("icd10Code",  "icd11Code", "icd11Title", "Maptype")]
 # Convert all columns in final_map to character
 ICD10cm_to_ICD11_table[] <- lapply(ICD10cm_to_ICD11_table, as.character)
-write.xlsx(ICD10cm_to_ICD11_table , "D:/MIMIC/MappingsFile/ICD10cm_to_ICD11.xlsx")
+write.xlsx(ICD10cm_to_ICD11_table , "./MIMIC/MappingsFile/ICD10cm_to_ICD11.xlsx")
