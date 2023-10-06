@@ -20,15 +20,21 @@ Elixhauser_scorepopA <- elixhauser_popA %>%
   mutate(elixhauser_score_A = score_popA_Elixh)
 
 
-# elixhauser Score for the original population of MIMIC4 coded in ICD-9-CM and ICD-10-CM
+# Elixhauser Score for population B in ICD-10CM
 
 # Remove dots for ICD-10 codes in population B
 popB <- popB %>% mutate(icd10cm = gsub("\\.", "", icd10cm)) %>% distinct()
 
 # Calculate elixhauser score for Mimic 4 population with all ICD-10-CM codes
-charlson_popB <- comorbidity(x = popB, id = "id_uniq", code = "icd10cm", map = "charlson_icd10_quan", assign0 = FALSE)
-nrow(charlson_popB)
-score_populationB <- score(x = charlson_popB, weights = "quan", assign0 = FALSE)
-print(score_populationB)
+elixhauser_popB <- comorbidity(x = popB, id = "id_uniq", code = "icd10cm", map = "elixhauser_icd10_quan", assign0 = FALSE)
+View(elixhauser_popB)
+Elixscore_populationB <- score(x = elixhauser_popB, weights = "vw", assign0 = FALSE)
+print(Elixscore_populationB)
+
+# Add the scores to identifiers
+elixhauser_score_populationB <- elixhauser_popB %>% mutate(Elixscore_populationB = Elixscore_populationB)
+
+View(elixhauser_score_populationB)
+
 
 
